@@ -1,0 +1,3223 @@
+State,County,SES_Label
+Alabama,Autauga,M
+Alabama,Baldwin,H
+Alabama,Barbour,L
+Alabama,Bibb,L
+Alabama,Blount,M
+Alabama,Bullock,L
+Alabama,Butler,L
+Alabama,Calhoun,M
+Alabama,Chambers,L
+Alabama,Cherokee,L
+Alabama,Chilton,M
+Alabama,Choctaw,L
+Alabama,Clarke,L
+Alabama,Clay,L
+Alabama,Cleburne,L
+Alabama,Coffee,M
+Alabama,Colbert,M
+Alabama,Conecuh,L
+Alabama,Coosa,M
+Alabama,Covington,L
+Alabama,Crenshaw,L
+Alabama,Cullman,M
+Alabama,Dale,L
+Alabama,Dallas,L
+Alabama,DeKalb,L
+Alabama,Elmore,H
+Alabama,Escambia,L
+Alabama,Etowah,L
+Alabama,Fayette,L
+Alabama,Franklin,L
+Alabama,Geneva,L
+Alabama,Greene,L
+Alabama,Hale,L
+Alabama,Henry,M
+Alabama,Houston,M
+Alabama,Jackson,L
+Alabama,Jefferson,M
+Alabama,Lamar,L
+Alabama,Lauderdale,M
+Alabama,Lawrence,M
+Alabama,Lee,M
+Alabama,Limestone,H
+Alabama,Lowndes,L
+Alabama,Macon,L
+Alabama,Madison,H
+Alabama,Marengo,L
+Alabama,Marion,L
+Alabama,Marshall,M
+Alabama,Mobile,M
+Alabama,Monroe,L
+Alabama,Montgomery,M
+Alabama,Morgan,M
+Alabama,Perry,L
+Alabama,Pickens,L
+Alabama,Pike,L
+Alabama,Randolph,L
+Alabama,Russell,L
+Alabama,St. Clair,H
+Alabama,Shelby,H
+Alabama,Sumter,L
+Alabama,Talladega,M
+Alabama,Tallapoosa,M
+Alabama,Tuscaloosa,M
+Alabama,Walker,M
+Alabama,Washington,M
+Alabama,Wilcox,L
+Alabama,Winston,L
+Alaska,Aleutians East Borough,M
+Alaska,Aleutians West Census Area,H
+Alaska,Anchorage Municipality,H
+Alaska,Bethel Census Area,M
+Alaska,Bristol Bay Borough,H
+Alaska,Chugach Census Area,H
+Alaska,Copper River Census Area,H
+Alaska,Denali Borough,H
+Alaska,Dillingham Census Area,H
+Alaska,Fairbanks North Star Borough,H
+Alaska,Haines Borough,M
+Alaska,Hoonah-Angoon Census Area,M
+Alaska,Juneau City and Borough,H
+Alaska,Kenai Peninsula Borough,H
+Alaska,Ketchikan Gateway Borough,H
+Alaska,Kodiak Island Borough,H
+Alaska,Kusilvak Census Area,L
+Alaska,Lake and Peninsula Borough,M
+Alaska,Matanuska-Susitna Borough,H
+Alaska,Nome Census Area,H
+Alaska,North Slope Borough,H
+Alaska,Northwest Arctic Borough,H
+Alaska,Petersburg Borough,H
+Alaska,Prince of Wales-Hyder Census Area,M
+Alaska,Sitka City and Borough,H
+Alaska,Skagway Municipality,H
+Alaska,Southeast Fairbanks Census Area,H
+Alaska,Wrangell City and Borough,M
+Alaska,Yakutat City and Borough,H
+Alaska,Yukon-Koyukuk Census Area,L
+Arizona,Apache,L
+Arizona,Cochise,M
+Arizona,Coconino,M
+Arizona,Gila,M
+Arizona,Graham,M
+Arizona,Greenlee,H
+Arizona,La Paz,L
+Arizona,Maricopa,H
+Arizona,Mohave,M
+Arizona,Navajo,L
+Arizona,Pima,M
+Arizona,Pinal,H
+Arizona,Santa Cruz,L
+Arizona,Yavapai,M
+Arizona,Yuma,M
+Arkansas,Arkansas,M
+Arkansas,Ashley,L
+Arkansas,Baxter,L
+Arkansas,Benton,H
+Arkansas,Boone,M
+Arkansas,Bradley,L
+Arkansas,Calhoun,M
+Arkansas,Carroll,M
+Arkansas,Chicot,L
+Arkansas,Clark,L
+Arkansas,Clay,L
+Arkansas,Cleburne,M
+Arkansas,Cleveland,L
+Arkansas,Columbia,L
+Arkansas,Conway,L
+Arkansas,Craighead,M
+Arkansas,Crawford,M
+Arkansas,Crittenden,M
+Arkansas,Cross,L
+Arkansas,Dallas,L
+Arkansas,Desha,L
+Arkansas,Drew,L
+Arkansas,Faulkner,M
+Arkansas,Franklin,L
+Arkansas,Fulton,L
+Arkansas,Garland,M
+Arkansas,Grant,M
+Arkansas,Greene,M
+Arkansas,Hempstead,L
+Arkansas,Hot Spring,L
+Arkansas,Howard,L
+Arkansas,Independence,M
+Arkansas,Izard,L
+Arkansas,Jackson,L
+Arkansas,Jefferson,L
+Arkansas,Johnson,L
+Arkansas,Lafayette,L
+Arkansas,Lawrence,L
+Arkansas,Lee,L
+Arkansas,Lincoln,L
+Arkansas,Little River,L
+Arkansas,Logan,M
+Arkansas,Lonoke,M
+Arkansas,Madison,L
+Arkansas,Marion,L
+Arkansas,Miller,L
+Arkansas,Mississippi,L
+Arkansas,Monroe,L
+Arkansas,Montgomery,L
+Arkansas,Nevada,L
+Arkansas,Newton,L
+Arkansas,Ouachita,L
+Arkansas,Perry,M
+Arkansas,Phillips,L
+Arkansas,Pike,L
+Arkansas,Poinsett,L
+Arkansas,Polk,L
+Arkansas,Pope,M
+Arkansas,Prairie,L
+Arkansas,Pulaski,M
+Arkansas,Randolph,L
+Arkansas,St. Francis,L
+Arkansas,Saline,H
+Arkansas,Scott,L
+Arkansas,Searcy,L
+Arkansas,Sebastian,M
+Arkansas,Sevier,L
+Arkansas,Sharp,L
+Arkansas,Stone,L
+Arkansas,Union,L
+Arkansas,Van Buren,L
+Arkansas,Washington,M
+Arkansas,White,L
+Arkansas,Woodruff,L
+Arkansas,Yell,M
+California,Alameda,H
+California,Alpine,H
+California,Amador,H
+California,Butte,M
+California,Calaveras,H
+California,Colusa,H
+California,Contra Costa,H
+California,Del Norte,M
+California,El Dorado,H
+California,Fresno,M
+California,Glenn,M
+California,Humboldt,M
+California,Imperial,M
+California,Inyo,M
+California,Kern,M
+California,Kings,M
+California,Lake,M
+California,Lassen,M
+California,Los Angeles,H
+California,Madera,H
+California,Marin,H
+California,Mariposa,M
+California,Mendocino,M
+California,Merced,M
+California,Modoc,M
+California,Mono,H
+California,Monterey,H
+California,Napa,H
+California,Nevada,H
+California,Orange,H
+California,Placer,H
+California,Plumas,M
+California,Riverside,H
+California,Sacramento,H
+California,San Benito,H
+California,San Bernardino,H
+California,San Diego,H
+California,San Francisco,H
+California,San Joaquin,H
+California,San Luis Obispo,H
+California,San Mateo,H
+California,Santa Barbara,H
+California,Santa Clara,H
+California,Santa Cruz,H
+California,Shasta,M
+California,Sierra,M
+California,Siskiyou,M
+California,Solano,H
+California,Sonoma,H
+California,Stanislaus,H
+California,Sutter,H
+California,Tehama,M
+California,Trinity,L
+California,Tulare,M
+California,Tuolumne,M
+California,Ventura,H
+California,Yolo,H
+California,Yuba,H
+Colorado,Adams,H
+Colorado,Alamosa,L
+Colorado,Arapahoe,H
+Colorado,Archuleta,H
+Colorado,Baca,L
+Colorado,Bent,L
+Colorado,Boulder,H
+Colorado,Broomfield,H
+Colorado,Chaffee,M
+Colorado,Cheyenne,M
+Colorado,Clear Creek,H
+Colorado,Conejos,L
+Colorado,Costilla,L
+Colorado,Crowley,L
+Colorado,Custer,M
+Colorado,Delta,M
+Colorado,Denver,H
+Colorado,Dolores,M
+Colorado,Douglas,H
+Colorado,Eagle,H
+Colorado,Elbert,H
+Colorado,El Paso,H
+Colorado,Fremont,M
+Colorado,Garfield,H
+Colorado,Gilpin,H
+Colorado,Grand,H
+Colorado,Gunnison,H
+Colorado,Hinsdale,M
+Colorado,Huerfano,L
+Colorado,Jackson,L
+Colorado,Jefferson,H
+Colorado,Kiowa,M
+Colorado,Kit Carson,M
+Colorado,Lake,H
+Colorado,La Plata,H
+Colorado,Larimer,H
+Colorado,Las Animas,L
+Colorado,Lincoln,M
+Colorado,Logan,M
+Colorado,Mesa,M
+Colorado,Mineral,L
+Colorado,Moffat,M
+Colorado,Montezuma,M
+Colorado,Montrose,M
+Colorado,Morgan,H
+Colorado,Otero,M
+Colorado,Ouray,H
+Colorado,Park,H
+Colorado,Phillips,M
+Colorado,Pitkin,H
+Colorado,Prowers,M
+Colorado,Pueblo,M
+Colorado,Rio Blanco,M
+Colorado,Rio Grande,M
+Colorado,Routt,H
+Colorado,Saguache,M
+Colorado,San Juan,H
+Colorado,San Miguel,H
+Colorado,Sedgwick,L
+Colorado,Summit,H
+Colorado,Teller,H
+Colorado,Washington,M
+Colorado,Weld,H
+Colorado,Yuma,M
+Connecticut,Capitol Planning Region,H
+Connecticut,Greater Bridgeport Planning Region,H
+Connecticut,Lower Connecticut River Valley Planning Region,H
+Connecticut,Naugatuck Valley Planning Region,H
+Connecticut,Northeastern Connecticut Planning Region,H
+Connecticut,Northwest Hills Planning Region,H
+Connecticut,South Central Connecticut Planning Region,H
+Connecticut,Southeastern Connecticut Planning Region,H
+Connecticut,Western Connecticut Planning Region,H
+Delaware,Kent,M
+Delaware,New Castle,H
+Delaware,Sussex,H
+District of Columbia,District of Columbia,H
+Florida,Alachua,M
+Florida,Baker,M
+Florida,Bay,M
+Florida,Bradford,M
+Florida,Brevard,H
+Florida,Broward,H
+Florida,Calhoun,L
+Florida,Charlotte,M
+Florida,Citrus,M
+Florida,Clay,H
+Florida,Collier,H
+Florida,Columbia,M
+Florida,DeSoto,L
+Florida,Dixie,L
+Florida,Duval,M
+Florida,Escambia,M
+Florida,Flagler,M
+Florida,Franklin,M
+Florida,Gadsden,L
+Florida,Gilchrist,M
+Florida,Glades,L
+Florida,Gulf,M
+Florida,Hamilton,L
+Florida,Hardee,M
+Florida,Hendry,L
+Florida,Hernando,M
+Florida,Highlands,M
+Florida,Hillsborough,H
+Florida,Holmes,L
+Florida,Indian River,M
+Florida,Jackson,L
+Florida,Jefferson,M
+Florida,Lafayette,M
+Florida,Lake,M
+Florida,Lee,M
+Florida,Leon,M
+Florida,Levy,L
+Florida,Liberty,L
+Florida,Madison,L
+Florida,Manatee,H
+Florida,Marion,M
+Florida,Martin,H
+Florida,Miami-Dade,M
+Florida,Monroe,H
+Florida,Nassau,H
+Florida,Okaloosa,H
+Florida,Okeechobee,L
+Florida,Orange,H
+Florida,Osceola,M
+Florida,Palm Beach,H
+Florida,Pasco,M
+Florida,Pinellas,M
+Florida,Polk,M
+Florida,Putnam,L
+Florida,St. Johns,H
+Florida,St. Lucie,M
+Florida,Santa Rosa,H
+Florida,Sarasota,H
+Florida,Seminole,H
+Florida,Sumter,H
+Florida,Suwannee,M
+Florida,Taylor,L
+Florida,Union,M
+Florida,Volusia,M
+Florida,Wakulla,H
+Florida,Walton,H
+Florida,Washington,L
+Georgia,Appling,L
+Georgia,Atkinson,L
+Georgia,Bacon,L
+Georgia,Baker,L
+Georgia,Baldwin,M
+Georgia,Banks,M
+Georgia,Barrow,H
+Georgia,Bartow,H
+Georgia,Ben Hill,L
+Georgia,Berrien,L
+Georgia,Bibb,L
+Georgia,Bleckley,L
+Georgia,Brantley,L
+Georgia,Brooks,L
+Georgia,Bryan,H
+Georgia,Bulloch,M
+Georgia,Burke,L
+Georgia,Butts,M
+Georgia,Calhoun,M
+Georgia,Camden,M
+Georgia,Candler,L
+Georgia,Carroll,M
+Georgia,Catoosa,M
+Georgia,Charlton,L
+Georgia,Chatham,M
+Georgia,Chattahoochee,M
+Georgia,Chattooga,L
+Georgia,Cherokee,H
+Georgia,Clarke,L
+Georgia,Clay,L
+Georgia,Clayton,M
+Georgia,Clinch,M
+Georgia,Cobb,H
+Georgia,Coffee,L
+Georgia,Colquitt,L
+Georgia,Columbia,H
+Georgia,Cook,L
+Georgia,Coweta,H
+Georgia,Crawford,M
+Georgia,Crisp,L
+Georgia,Dade,M
+Georgia,Dawson,H
+Georgia,Decatur,L
+Georgia,DeKalb,H
+Georgia,Dodge,L
+Georgia,Dooly,M
+Georgia,Dougherty,L
+Georgia,Douglas,H
+Georgia,Early,L
+Georgia,Echols,M
+Georgia,Effingham,H
+Georgia,Elbert,L
+Georgia,Emanuel,L
+Georgia,Evans,L
+Georgia,Fannin,M
+Georgia,Fayette,H
+Georgia,Floyd,M
+Georgia,Forsyth,H
+Georgia,Franklin,L
+Georgia,Fulton,H
+Georgia,Gilmer,M
+Georgia,Glascock,M
+Georgia,Glynn,M
+Georgia,Gordon,M
+Georgia,Grady,M
+Georgia,Greene,H
+Georgia,Gwinnett,H
+Georgia,Habersham,M
+Georgia,Hall,H
+Georgia,Hancock,L
+Georgia,Haralson,M
+Georgia,Harris,H
+Georgia,Hart,M
+Georgia,Heard,M
+Georgia,Henry,H
+Georgia,Houston,H
+Georgia,Irwin,L
+Georgia,Jackson,H
+Georgia,Jasper,M
+Georgia,Jeff Davis,L
+Georgia,Jefferson,L
+Georgia,Jenkins,L
+Georgia,Johnson,M
+Georgia,Jones,M
+Georgia,Lamar,M
+Georgia,Lanier,L
+Georgia,Laurens,L
+Georgia,Lee,H
+Georgia,Liberty,M
+Georgia,Lincoln,L
+Georgia,Long,M
+Georgia,Lowndes,M
+Georgia,Lumpkin,M
+Georgia,McDuffie,L
+Georgia,McIntosh,L
+Georgia,Macon,L
+Georgia,Madison,M
+Georgia,Marion,L
+Georgia,Meriwether,M
+Georgia,Miller,M
+Georgia,Mitchell,L
+Georgia,Monroe,H
+Georgia,Montgomery,L
+Georgia,Morgan,H
+Georgia,Murray,M
+Georgia,Muscogee,M
+Georgia,Newton,H
+Georgia,Oconee,H
+Georgia,Oglethorpe,M
+Georgia,Paulding,H
+Georgia,Peach,M
+Georgia,Pickens,H
+Georgia,Pierce,M
+Georgia,Pike,H
+Georgia,Polk,M
+Georgia,Pulaski,L
+Georgia,Putnam,M
+Georgia,Quitman,L
+Georgia,Rabun,M
+Georgia,Randolph,L
+Georgia,Richmond,L
+Georgia,Rockdale,M
+Georgia,Schley,M
+Georgia,Screven,L
+Georgia,Seminole,L
+Georgia,Spalding,M
+Georgia,Stephens,L
+Georgia,Stewart,L
+Georgia,Sumter,L
+Georgia,Talbot,L
+Georgia,Taliaferro,L
+Georgia,Tattnall,L
+Georgia,Taylor,L
+Georgia,Telfair,L
+Georgia,Terrell,L
+Georgia,Thomas,M
+Georgia,Tift,L
+Georgia,Toombs,M
+Georgia,Towns,M
+Georgia,Treutlen,L
+Georgia,Troup,M
+Georgia,Turner,L
+Georgia,Twiggs,M
+Georgia,Union,M
+Georgia,Upson,L
+Georgia,Walker,M
+Georgia,Walton,H
+Georgia,Ware,L
+Georgia,Warren,L
+Georgia,Washington,L
+Georgia,Wayne,L
+Georgia,Webster,L
+Georgia,Wheeler,L
+Georgia,White,M
+Georgia,Whitfield,M
+Georgia,Wilcox,L
+Georgia,Wilkes,L
+Georgia,Wilkinson,L
+Georgia,Worth,M
+Hawaii,Hawaii,H
+Hawaii,Honolulu,H
+Hawaii,Kalawao,H
+Hawaii,Kauai,H
+Hawaii,Maui,H
+Idaho,Ada,H
+Idaho,Adams,M
+Idaho,Bannock,M
+Idaho,Bear Lake,M
+Idaho,Benewah,M
+Idaho,Bingham,H
+Idaho,Blaine,H
+Idaho,Boise,H
+Idaho,Bonner,M
+Idaho,Bonneville,H
+Idaho,Boundary,M
+Idaho,Butte,L
+Idaho,Camas,M
+Idaho,Canyon,M
+Idaho,Caribou,M
+Idaho,Cassia,M
+Idaho,Clark,L
+Idaho,Clearwater,M
+Idaho,Custer,M
+Idaho,Elmore,M
+Idaho,Franklin,M
+Idaho,Fremont,M
+Idaho,Gem,M
+Idaho,Gooding,M
+Idaho,Idaho,M
+Idaho,Jefferson,H
+Idaho,Jerome,M
+Idaho,Kootenai,H
+Idaho,Latah,M
+Idaho,Lemhi,L
+Idaho,Lewis,L
+Idaho,Lincoln,M
+Idaho,Madison,M
+Idaho,Minidoka,M
+Idaho,Nez Perce,M
+Idaho,Oneida,M
+Idaho,Owyhee,M
+Idaho,Payette,M
+Idaho,Power,M
+Idaho,Shoshone,L
+Idaho,Teton,H
+Idaho,Twin Falls,M
+Idaho,Valley,H
+Idaho,Washington,L
+Illinois,Adams,M
+Illinois,Alexander,L
+Illinois,Bond,M
+Illinois,Boone,H
+Illinois,Brown,M
+Illinois,Bureau,M
+Illinois,Calhoun,H
+Illinois,Carroll,M
+Illinois,Cass,M
+Illinois,Champaign,M
+Illinois,Christian,M
+Illinois,Clark,M
+Illinois,Clay,M
+Illinois,Clinton,H
+Illinois,Coles,M
+Illinois,Cook,H
+Illinois,Crawford,M
+Illinois,Cumberland,M
+Illinois,DeKalb,M
+Illinois,De Witt,M
+Illinois,Douglas,H
+Illinois,DuPage,H
+Illinois,Edgar,M
+Illinois,Edwards,M
+Illinois,Effingham,H
+Illinois,Fayette,M
+Illinois,Ford,M
+Illinois,Franklin,L
+Illinois,Fulton,M
+Illinois,Gallatin,M
+Illinois,Greene,M
+Illinois,Grundy,H
+Illinois,Hamilton,M
+Illinois,Hancock,M
+Illinois,Hardin,M
+Illinois,Henderson,M
+Illinois,Henry,M
+Illinois,Iroquois,M
+Illinois,Jackson,L
+Illinois,Jasper,M
+Illinois,Jefferson,M
+Illinois,Jersey,H
+Illinois,Jo Daviess,H
+Illinois,Johnson,M
+Illinois,Kane,H
+Illinois,Kankakee,M
+Illinois,Kendall,H
+Illinois,Knox,L
+Illinois,Lake,H
+Illinois,LaSalle,M
+Illinois,Lawrence,L
+Illinois,Lee,M
+Illinois,Livingston,M
+Illinois,Logan,M
+Illinois,McDonough,L
+Illinois,McHenry,H
+Illinois,McLean,H
+Illinois,Macon,M
+Illinois,Macoupin,M
+Illinois,Madison,H
+Illinois,Marion,M
+Illinois,Marshall,M
+Illinois,Mason,M
+Illinois,Massac,M
+Illinois,Menard,H
+Illinois,Mercer,M
+Illinois,Monroe,H
+Illinois,Montgomery,M
+Illinois,Morgan,M
+Illinois,Moultrie,M
+Illinois,Ogle,H
+Illinois,Peoria,M
+Illinois,Perry,M
+Illinois,Piatt,H
+Illinois,Pike,M
+Illinois,Pope,M
+Illinois,Pulaski,L
+Illinois,Putnam,H
+Illinois,Randolph,M
+Illinois,Richland,M
+Illinois,Rock Island,M
+Illinois,St. Clair,M
+Illinois,Saline,M
+Illinois,Sangamon,H
+Illinois,Schuyler,M
+Illinois,Scott,M
+Illinois,Shelby,M
+Illinois,Stark,M
+Illinois,Stephenson,M
+Illinois,Tazewell,H
+Illinois,Union,M
+Illinois,Vermilion,M
+Illinois,Wabash,L
+Illinois,Warren,M
+Illinois,Washington,H
+Illinois,Wayne,L
+Illinois,White,L
+Illinois,Whiteside,M
+Illinois,Will,H
+Illinois,Williamson,M
+Illinois,Winnebago,M
+Illinois,Woodford,H
+Indiana,Adams,M
+Indiana,Allen,M
+Indiana,Bartholomew,H
+Indiana,Benton,M
+Indiana,Blackford,L
+Indiana,Boone,H
+Indiana,Brown,M
+Indiana,Carroll,M
+Indiana,Cass,M
+Indiana,Clark,M
+Indiana,Clay,M
+Indiana,Clinton,M
+Indiana,Crawford,L
+Indiana,Daviess,M
+Indiana,Dearborn,H
+Indiana,Decatur,H
+Indiana,DeKalb,M
+Indiana,Delaware,M
+Indiana,Dubois,M
+Indiana,Elkhart,M
+Indiana,Fayette,M
+Indiana,Floyd,H
+Indiana,Fountain,M
+Indiana,Franklin,H
+Indiana,Fulton,M
+Indiana,Gibson,M
+Indiana,Grant,L
+Indiana,Greene,M
+Indiana,Hamilton,H
+Indiana,Hancock,H
+Indiana,Harrison,M
+Indiana,Hendricks,H
+Indiana,Henry,M
+Indiana,Howard,M
+Indiana,Huntington,M
+Indiana,Jackson,M
+Indiana,Jasper,H
+Indiana,Jay,M
+Indiana,Jefferson,M
+Indiana,Jennings,M
+Indiana,Johnson,H
+Indiana,Knox,M
+Indiana,Kosciusko,H
+Indiana,LaGrange,H
+Indiana,Lake,M
+Indiana,LaPorte,M
+Indiana,Lawrence,M
+Indiana,Madison,M
+Indiana,Marion,M
+Indiana,Marshall,M
+Indiana,Martin,M
+Indiana,Miami,M
+Indiana,Monroe,M
+Indiana,Montgomery,M
+Indiana,Morgan,H
+Indiana,Newton,M
+Indiana,Noble,M
+Indiana,Ohio,M
+Indiana,Orange,M
+Indiana,Owen,M
+Indiana,Parke,M
+Indiana,Perry,M
+Indiana,Pike,M
+Indiana,Porter,H
+Indiana,Posey,H
+Indiana,Pulaski,M
+Indiana,Putnam,H
+Indiana,Randolph,M
+Indiana,Ripley,M
+Indiana,Rush,M
+Indiana,St. Joseph,M
+Indiana,Scott,M
+Indiana,Shelby,M
+Indiana,Spencer,M
+Indiana,Starke,M
+Indiana,Steuben,M
+Indiana,Sullivan,M
+Indiana,Switzerland,M
+Indiana,Tippecanoe,M
+Indiana,Tipton,H
+Indiana,Union,H
+Indiana,Vanderburgh,M
+Indiana,Vermillion,M
+Indiana,Vigo,L
+Indiana,Wabash,M
+Indiana,Warren,H
+Indiana,Warrick,H
+Indiana,Washington,M
+Indiana,Wayne,M
+Indiana,Wells,M
+Indiana,White,M
+Indiana,Whitley,H
+Iowa,Adair,M
+Iowa,Adams,M
+Iowa,Allamakee,M
+Iowa,Appanoose,L
+Iowa,Audubon,M
+Iowa,Benton,H
+Iowa,Black Hawk,M
+Iowa,Boone,H
+Iowa,Bremer,H
+Iowa,Buchanan,H
+Iowa,Buena Vista,M
+Iowa,Butler,M
+Iowa,Calhoun,M
+Iowa,Carroll,M
+Iowa,Cass,M
+Iowa,Cedar,H
+Iowa,Cerro Gordo,M
+Iowa,Cherokee,M
+Iowa,Chickasaw,H
+Iowa,Clarke,M
+Iowa,Clay,M
+Iowa,Clayton,M
+Iowa,Clinton,M
+Iowa,Crawford,M
+Iowa,Dallas,H
+Iowa,Davis,H
+Iowa,Decatur,M
+Iowa,Delaware,H
+Iowa,Des Moines,M
+Iowa,Dickinson,H
+Iowa,Dubuque,H
+Iowa,Emmet,M
+Iowa,Fayette,M
+Iowa,Floyd,M
+Iowa,Franklin,M
+Iowa,Fremont,H
+Iowa,Greene,M
+Iowa,Grundy,H
+Iowa,Guthrie,H
+Iowa,Hamilton,M
+Iowa,Hancock,M
+Iowa,Hardin,M
+Iowa,Harrison,H
+Iowa,Henry,M
+Iowa,Howard,M
+Iowa,Humboldt,M
+Iowa,Ida,M
+Iowa,Iowa,M
+Iowa,Jackson,M
+Iowa,Jasper,M
+Iowa,Jefferson,M
+Iowa,Johnson,H
+Iowa,Jones,M
+Iowa,Keokuk,M
+Iowa,Kossuth,M
+Iowa,Lee,M
+Iowa,Linn,H
+Iowa,Louisa,H
+Iowa,Lucas,M
+Iowa,Lyon,M
+Iowa,Madison,H
+Iowa,Mahaska,M
+Iowa,Marion,H
+Iowa,Marshall,M
+Iowa,Mills,H
+Iowa,Mitchell,M
+Iowa,Monona,M
+Iowa,Monroe,M
+Iowa,Montgomery,M
+Iowa,Muscatine,M
+Iowa,O'Brien,M
+Iowa,Osceola,M
+Iowa,Page,M
+Iowa,Palo Alto,M
+Iowa,Plymouth,H
+Iowa,Pocahontas,M
+Iowa,Polk,H
+Iowa,Pottawattamie,M
+Iowa,Poweshiek,M
+Iowa,Ringgold,M
+Iowa,Sac,M
+Iowa,Scott,H
+Iowa,Shelby,M
+Iowa,Sioux,H
+Iowa,Story,M
+Iowa,Tama,M
+Iowa,Taylor,M
+Iowa,Union,M
+Iowa,Van Buren,M
+Iowa,Wapello,M
+Iowa,Warren,H
+Iowa,Washington,M
+Iowa,Wayne,M
+Iowa,Webster,M
+Iowa,Winnebago,M
+Iowa,Winneshiek,H
+Iowa,Woodbury,M
+Iowa,Worth,H
+Iowa,Wright,M
+Kansas,Allen,M
+Kansas,Anderson,M
+Kansas,Atchison,M
+Kansas,Barber,M
+Kansas,Barton,M
+Kansas,Bourbon,M
+Kansas,Brown,M
+Kansas,Butler,H
+Kansas,Chase,M
+Kansas,Chautauqua,M
+Kansas,Cherokee,M
+Kansas,Cheyenne,M
+Kansas,Clark,M
+Kansas,Clay,M
+Kansas,Cloud,M
+Kansas,Coffey,M
+Kansas,Comanche,L
+Kansas,Cowley,M
+Kansas,Crawford,L
+Kansas,Decatur,L
+Kansas,Dickinson,M
+Kansas,Doniphan,M
+Kansas,Douglas,M
+Kansas,Edwards,L
+Kansas,Elk,M
+Kansas,Ellis,M
+Kansas,Ellsworth,M
+Kansas,Finney,M
+Kansas,Ford,M
+Kansas,Franklin,M
+Kansas,Geary,M
+Kansas,Gove,M
+Kansas,Graham,L
+Kansas,Grant,M
+Kansas,Gray,H
+Kansas,Greeley,H
+Kansas,Greenwood,M
+Kansas,Hamilton,M
+Kansas,Harper,M
+Kansas,Harvey,H
+Kansas,Haskell,M
+Kansas,Hodgeman,M
+Kansas,Jackson,M
+Kansas,Jefferson,H
+Kansas,Jewell,L
+Kansas,Johnson,H
+Kansas,Kearny,H
+Kansas,Kingman,M
+Kansas,Kiowa,M
+Kansas,Labette,M
+Kansas,Lane,L
+Kansas,Leavenworth,H
+Kansas,Lincoln,L
+Kansas,Linn,M
+Kansas,Logan,M
+Kansas,Lyon,M
+Kansas,McPherson,H
+Kansas,Marion,M
+Kansas,Marshall,M
+Kansas,Meade,H
+Kansas,Miami,H
+Kansas,Mitchell,M
+Kansas,Montgomery,L
+Kansas,Morris,M
+Kansas,Morton,M
+Kansas,Nemaha,H
+Kansas,Neosho,M
+Kansas,Ness,M
+Kansas,Norton,L
+Kansas,Osage,M
+Kansas,Osborne,M
+Kansas,Ottawa,H
+Kansas,Pawnee,M
+Kansas,Phillips,M
+Kansas,Pottawatomie,H
+Kansas,Pratt,M
+Kansas,Rawlins,M
+Kansas,Reno,M
+Kansas,Republic,L
+Kansas,Rice,M
+Kansas,Riley,M
+Kansas,Rooks,M
+Kansas,Rush,M
+Kansas,Russell,L
+Kansas,Saline,M
+Kansas,Scott,M
+Kansas,Sedgwick,M
+Kansas,Seward,M
+Kansas,Shawnee,M
+Kansas,Sheridan,M
+Kansas,Sherman,M
+Kansas,Smith,M
+Kansas,Stafford,M
+Kansas,Stanton,M
+Kansas,Stevens,M
+Kansas,Sumner,M
+Kansas,Thomas,H
+Kansas,Trego,H
+Kansas,Wabaunsee,M
+Kansas,Wallace,M
+Kansas,Washington,M
+Kansas,Wichita,M
+Kansas,Wilson,M
+Kansas,Woodson,L
+Kansas,Wyandotte,M
+Kentucky,Adair,L
+Kentucky,Allen,M
+Kentucky,Anderson,M
+Kentucky,Ballard,M
+Kentucky,Barren,L
+Kentucky,Bath,M
+Kentucky,Bell,L
+Kentucky,Boone,H
+Kentucky,Bourbon,M
+Kentucky,Boyd,M
+Kentucky,Boyle,M
+Kentucky,Bracken,M
+Kentucky,Breathitt,L
+Kentucky,Breckinridge,L
+Kentucky,Bullitt,H
+Kentucky,Butler,L
+Kentucky,Caldwell,M
+Kentucky,Calloway,L
+Kentucky,Campbell,H
+Kentucky,Carlisle,M
+Kentucky,Carroll,M
+Kentucky,Carter,L
+Kentucky,Casey,L
+Kentucky,Christian,M
+Kentucky,Clark,M
+Kentucky,Clay,L
+Kentucky,Clinton,L
+Kentucky,Crittenden,L
+Kentucky,Cumberland,L
+Kentucky,Daviess,M
+Kentucky,Edmonson,M
+Kentucky,Elliott,L
+Kentucky,Estill,L
+Kentucky,Fayette,M
+Kentucky,Fleming,L
+Kentucky,Floyd,L
+Kentucky,Franklin,M
+Kentucky,Fulton,L
+Kentucky,Gallatin,M
+Kentucky,Garrard,M
+Kentucky,Grant,M
+Kentucky,Graves,L
+Kentucky,Grayson,L
+Kentucky,Green,L
+Kentucky,Greenup,M
+Kentucky,Hancock,M
+Kentucky,Hardin,M
+Kentucky,Harlan,L
+Kentucky,Harrison,M
+Kentucky,Hart,L
+Kentucky,Henderson,M
+Kentucky,Henry,M
+Kentucky,Hickman,M
+Kentucky,Hopkins,M
+Kentucky,Jackson,L
+Kentucky,Jefferson,M
+Kentucky,Jessamine,H
+Kentucky,Johnson,L
+Kentucky,Kenton,H
+Kentucky,Knott,L
+Kentucky,Knox,L
+Kentucky,Larue,M
+Kentucky,Laurel,M
+Kentucky,Lawrence,L
+Kentucky,Lee,L
+Kentucky,Leslie,L
+Kentucky,Letcher,L
+Kentucky,Lewis,L
+Kentucky,Lincoln,L
+Kentucky,Livingston,M
+Kentucky,Logan,M
+Kentucky,Lyon,M
+Kentucky,McCracken,M
+Kentucky,McCreary,L
+Kentucky,McLean,M
+Kentucky,Madison,M
+Kentucky,Magoffin,L
+Kentucky,Marion,M
+Kentucky,Marshall,M
+Kentucky,Martin,L
+Kentucky,Mason,L
+Kentucky,Meade,M
+Kentucky,Menifee,L
+Kentucky,Mercer,M
+Kentucky,Metcalfe,L
+Kentucky,Monroe,L
+Kentucky,Montgomery,M
+Kentucky,Morgan,L
+Kentucky,Muhlenberg,L
+Kentucky,Nelson,M
+Kentucky,Nicholas,L
+Kentucky,Ohio,M
+Kentucky,Oldham,H
+Kentucky,Owen,M
+Kentucky,Owsley,L
+Kentucky,Pendleton,M
+Kentucky,Perry,L
+Kentucky,Pike,L
+Kentucky,Powell,L
+Kentucky,Pulaski,L
+Kentucky,Robertson,L
+Kentucky,Rockcastle,L
+Kentucky,Rowan,L
+Kentucky,Russell,L
+Kentucky,Scott,H
+Kentucky,Shelby,H
+Kentucky,Simpson,M
+Kentucky,Spencer,H
+Kentucky,Taylor,M
+Kentucky,Todd,M
+Kentucky,Trigg,M
+Kentucky,Trimble,M
+Kentucky,Union,M
+Kentucky,Warren,M
+Kentucky,Washington,M
+Kentucky,Wayne,L
+Kentucky,Webster,M
+Kentucky,Whitley,L
+Kentucky,Wolfe,L
+Kentucky,Woodford,H
+Louisiana,Acadia Parish,L
+Louisiana,Allen Parish,L
+Louisiana,Ascension Parish,H
+Louisiana,Assumption Parish,L
+Louisiana,Avoyelles Parish,L
+Louisiana,Beauregard Parish,M
+Louisiana,Bienville Parish,L
+Louisiana,Bossier Parish,M
+Louisiana,Caddo Parish,L
+Louisiana,Calcasieu Parish,M
+Louisiana,Caldwell Parish,L
+Louisiana,Cameron Parish,M
+Louisiana,Catahoula Parish,L
+Louisiana,Claiborne Parish,L
+Louisiana,Concordia Parish,L
+Louisiana,De Soto Parish,L
+Louisiana,East Baton Rouge Parish,M
+Louisiana,East Carroll Parish,L
+Louisiana,East Feliciana Parish,M
+Louisiana,Evangeline Parish,L
+Louisiana,Franklin Parish,L
+Louisiana,Grant Parish,M
+Louisiana,Iberia Parish,M
+Louisiana,Iberville Parish,M
+Louisiana,Jackson Parish,L
+Louisiana,Jefferson Parish,M
+Louisiana,Jefferson Davis Parish,M
+Louisiana,Lafayette Parish,M
+Louisiana,Lafourche Parish,M
+Louisiana,LaSalle Parish,M
+Louisiana,Lincoln Parish,L
+Louisiana,Livingston Parish,H
+Louisiana,Madison Parish,L
+Louisiana,Morehouse Parish,L
+Louisiana,Natchitoches Parish,L
+Louisiana,Orleans Parish,M
+Louisiana,Ouachita Parish,L
+Louisiana,Plaquemines Parish,H
+Louisiana,Pointe Coupee Parish,M
+Louisiana,Rapides Parish,M
+Louisiana,Red River Parish,L
+Louisiana,Richland Parish,L
+Louisiana,Sabine Parish,L
+Louisiana,St. Bernard Parish,M
+Louisiana,St. Charles Parish,H
+Louisiana,St. Helena Parish,L
+Louisiana,St. James Parish,M
+Louisiana,St. John the Baptist Parish,M
+Louisiana,St. Landry Parish,L
+Louisiana,St. Martin Parish,L
+Louisiana,St. Mary Parish,L
+Louisiana,St. Tammany Parish,H
+Louisiana,Tangipahoa Parish,M
+Louisiana,Tensas Parish,L
+Louisiana,Terrebonne Parish,M
+Louisiana,Union Parish,L
+Louisiana,Vermilion Parish,M
+Louisiana,Vernon Parish,M
+Louisiana,Washington Parish,L
+Louisiana,Webster Parish,L
+Louisiana,West Baton Rouge Parish,H
+Louisiana,West Carroll Parish,L
+Louisiana,West Feliciana Parish,H
+Louisiana,Winn Parish,L
+Maine,Androscoggin,M
+Maine,Aroostook,M
+Maine,Cumberland,H
+Maine,Franklin,M
+Maine,Hancock,M
+Maine,Kennebec,M
+Maine,Knox,M
+Maine,Lincoln,M
+Maine,Oxford,M
+Maine,Penobscot,M
+Maine,Piscataquis,M
+Maine,Sagadahoc,H
+Maine,Somerset,M
+Maine,Waldo,M
+Maine,Washington,L
+Maine,York,H
+Maryland,Allegany,M
+Maryland,Anne Arundel,H
+Maryland,Baltimore,H
+Maryland,Calvert,H
+Maryland,Caroline,M
+Maryland,Carroll,H
+Maryland,Cecil,H
+Maryland,Charles,H
+Maryland,Dorchester,M
+Maryland,Frederick,H
+Maryland,Garrett,M
+Maryland,Harford,H
+Maryland,Howard,H
+Maryland,Kent,H
+Maryland,Montgomery,H
+Maryland,Prince George's,H
+Maryland,Queen Anne's,H
+Maryland,St. Mary's,H
+Maryland,Somerset,L
+Maryland,Talbot,H
+Maryland,Washington,H
+Maryland,Wicomico,M
+Maryland,Worcester,H
+Maryland,Baltimore city,M
+Massachusetts,Barnstable,H
+Massachusetts,Berkshire,M
+Massachusetts,Bristol,H
+Massachusetts,Dukes,H
+Massachusetts,Essex,H
+Massachusetts,Franklin,M
+Massachusetts,Hampden,M
+Massachusetts,Hampshire,H
+Massachusetts,Middlesex,H
+Massachusetts,Nantucket,H
+Massachusetts,Norfolk,H
+Massachusetts,Plymouth,H
+Massachusetts,Suffolk,H
+Massachusetts,Worcester,H
+Michigan,Alcona,L
+Michigan,Alger,M
+Michigan,Allegan,H
+Michigan,Alpena,L
+Michigan,Antrim,M
+Michigan,Arenac,M
+Michigan,Baraga,M
+Michigan,Barry,H
+Michigan,Bay,M
+Michigan,Benzie,M
+Michigan,Berrien,M
+Michigan,Branch,M
+Michigan,Calhoun,M
+Michigan,Cass,M
+Michigan,Charlevoix,H
+Michigan,Cheboygan,M
+Michigan,Chippewa,M
+Michigan,Clare,L
+Michigan,Clinton,H
+Michigan,Crawford,M
+Michigan,Delta,M
+Michigan,Dickinson,M
+Michigan,Eaton,H
+Michigan,Emmet,H
+Michigan,Genesee,M
+Michigan,Gladwin,M
+Michigan,Gogebic,L
+Michigan,Grand Traverse,H
+Michigan,Gratiot,M
+Michigan,Hillsdale,M
+Michigan,Houghton,M
+Michigan,Huron,M
+Michigan,Ingham,M
+Michigan,Ionia,H
+Michigan,Iosco,L
+Michigan,Iron,L
+Michigan,Isabella,L
+Michigan,Jackson,M
+Michigan,Kalamazoo,M
+Michigan,Kalkaska,M
+Michigan,Kent,H
+Michigan,Keweenaw,L
+Michigan,Lake,L
+Michigan,Lapeer,H
+Michigan,Leelanau,H
+Michigan,Lenawee,M
+Michigan,Livingston,H
+Michigan,Luce,M
+Michigan,Mackinac,M
+Michigan,Macomb,H
+Michigan,Manistee,M
+Michigan,Marquette,M
+Michigan,Mason,M
+Michigan,Mecosta,M
+Michigan,Menominee,M
+Michigan,Midland,H
+Michigan,Missaukee,M
+Michigan,Monroe,H
+Michigan,Montcalm,M
+Michigan,Montmorency,L
+Michigan,Muskegon,M
+Michigan,Newaygo,M
+Michigan,Oakland,H
+Michigan,Oceana,M
+Michigan,Ogemaw,L
+Michigan,Ontonagon,L
+Michigan,Osceola,M
+Michigan,Oscoda,L
+Michigan,Otsego,M
+Michigan,Ottawa,H
+Michigan,Presque Isle,M
+Michigan,Roscommon,L
+Michigan,Saginaw,M
+Michigan,St. Clair,M
+Michigan,St. Joseph,M
+Michigan,Sanilac,M
+Michigan,Schoolcraft,M
+Michigan,Shiawassee,M
+Michigan,Tuscola,M
+Michigan,Van Buren,M
+Michigan,Washtenaw,H
+Michigan,Wayne,M
+Michigan,Wexford,M
+Minnesota,Aitkin,M
+Minnesota,Anoka,H
+Minnesota,Becker,M
+Minnesota,Beltrami,M
+Minnesota,Benton,M
+Minnesota,Big Stone,M
+Minnesota,Blue Earth,M
+Minnesota,Brown,M
+Minnesota,Carlton,H
+Minnesota,Carver,H
+Minnesota,Cass,M
+Minnesota,Chippewa,M
+Minnesota,Chisago,H
+Minnesota,Clay,H
+Minnesota,Clearwater,M
+Minnesota,Cook,M
+Minnesota,Cottonwood,M
+Minnesota,Crow Wing,M
+Minnesota,Dakota,H
+Minnesota,Dodge,H
+Minnesota,Douglas,H
+Minnesota,Faribault,M
+Minnesota,Fillmore,H
+Minnesota,Freeborn,M
+Minnesota,Goodhue,H
+Minnesota,Grant,M
+Minnesota,Hennepin,H
+Minnesota,Houston,H
+Minnesota,Hubbard,M
+Minnesota,Isanti,H
+Minnesota,Itasca,M
+Minnesota,Jackson,M
+Minnesota,Kanabec,M
+Minnesota,Kandiyohi,H
+Minnesota,Kittson,M
+Minnesota,Koochiching,M
+Minnesota,Lac qui Parle,M
+Minnesota,Lake,H
+Minnesota,Lake of the Woods,M
+Minnesota,Le Sueur,H
+Minnesota,Lincoln,M
+Minnesota,Lyon,M
+Minnesota,McLeod,H
+Minnesota,Mahnomen,L
+Minnesota,Marshall,M
+Minnesota,Martin,M
+Minnesota,Meeker,H
+Minnesota,Mille Lacs,M
+Minnesota,Morrison,M
+Minnesota,Mower,M
+Minnesota,Murray,H
+Minnesota,Nicollet,H
+Minnesota,Nobles,M
+Minnesota,Norman,M
+Minnesota,Olmsted,H
+Minnesota,Otter Tail,M
+Minnesota,Pennington,M
+Minnesota,Pine,M
+Minnesota,Pipestone,M
+Minnesota,Polk,M
+Minnesota,Pope,M
+Minnesota,Ramsey,H
+Minnesota,Red Lake,H
+Minnesota,Redwood,M
+Minnesota,Renville,M
+Minnesota,Rice,H
+Minnesota,Rock,M
+Minnesota,Roseau,H
+Minnesota,St. Louis,M
+Minnesota,Scott,H
+Minnesota,Sherburne,H
+Minnesota,Sibley,H
+Minnesota,Stearns,H
+Minnesota,Steele,H
+Minnesota,Stevens,M
+Minnesota,Swift,M
+Minnesota,Todd,M
+Minnesota,Traverse,M
+Minnesota,Wabasha,H
+Minnesota,Wadena,M
+Minnesota,Waseca,H
+Minnesota,Washington,H
+Minnesota,Watonwan,M
+Minnesota,Wilkin,M
+Minnesota,Winona,M
+Minnesota,Wright,H
+Minnesota,Yellow Medicine,M
+Mississippi,Adams,L
+Mississippi,Alcorn,L
+Mississippi,Amite,L
+Mississippi,Attala,L
+Mississippi,Benton,L
+Mississippi,Bolivar,L
+Mississippi,Calhoun,L
+Mississippi,Carroll,M
+Mississippi,Chickasaw,L
+Mississippi,Choctaw,L
+Mississippi,Claiborne,L
+Mississippi,Clarke,L
+Mississippi,Clay,L
+Mississippi,Coahoma,L
+Mississippi,Copiah,L
+Mississippi,Covington,L
+Mississippi,DeSoto,H
+Mississippi,Forrest,L
+Mississippi,Franklin,L
+Mississippi,George,M
+Mississippi,Greene,M
+Mississippi,Grenada,L
+Mississippi,Hancock,M
+Mississippi,Harrison,M
+Mississippi,Hinds,L
+Mississippi,Holmes,L
+Mississippi,Humphreys,L
+Mississippi,Issaquena,L
+Mississippi,Itawamba,M
+Mississippi,Jackson,M
+Mississippi,Jasper,L
+Mississippi,Jefferson,L
+Mississippi,Jefferson Davis,L
+Mississippi,Jones,L
+Mississippi,Kemper,L
+Mississippi,Lafayette,M
+Mississippi,Lamar,M
+Mississippi,Lauderdale,L
+Mississippi,Lawrence,L
+Mississippi,Leake,L
+Mississippi,Lee,M
+Mississippi,Leflore,L
+Mississippi,Lincoln,L
+Mississippi,Lowndes,M
+Mississippi,Madison,H
+Mississippi,Marion,L
+Mississippi,Marshall,L
+Mississippi,Monroe,L
+Mississippi,Montgomery,L
+Mississippi,Neshoba,L
+Mississippi,Newton,L
+Mississippi,Noxubee,L
+Mississippi,Oktibbeha,L
+Mississippi,Panola,L
+Mississippi,Pearl River,M
+Mississippi,Perry,L
+Mississippi,Pike,L
+Mississippi,Pontotoc,L
+Mississippi,Prentiss,L
+Mississippi,Quitman,L
+Mississippi,Rankin,H
+Mississippi,Scott,L
+Mississippi,Sharkey,L
+Mississippi,Simpson,L
+Mississippi,Smith,L
+Mississippi,Stone,M
+Mississippi,Sunflower,L
+Mississippi,Tallahatchie,L
+Mississippi,Tate,M
+Mississippi,Tippah,L
+Mississippi,Tishomingo,L
+Mississippi,Tunica,L
+Mississippi,Union,M
+Mississippi,Walthall,L
+Mississippi,Warren,M
+Mississippi,Washington,L
+Mississippi,Wayne,L
+Mississippi,Webster,M
+Mississippi,Wilkinson,L
+Mississippi,Winston,L
+Mississippi,Yalobusha,L
+Mississippi,Yazoo,L
+Missouri,Adair,M
+Missouri,Andrew,H
+Missouri,Atchison,M
+Missouri,Audrain,M
+Missouri,Barry,M
+Missouri,Barton,L
+Missouri,Bates,M
+Missouri,Benton,L
+Missouri,Bollinger,M
+Missouri,Boone,M
+Missouri,Buchanan,M
+Missouri,Butler,L
+Missouri,Caldwell,M
+Missouri,Callaway,M
+Missouri,Camden,M
+Missouri,Cape Girardeau,M
+Missouri,Carroll,M
+Missouri,Carter,L
+Missouri,Cass,H
+Missouri,Cedar,L
+Missouri,Chariton,M
+Missouri,Christian,H
+Missouri,Clark,L
+Missouri,Clay,H
+Missouri,Clinton,M
+Missouri,Cole,H
+Missouri,Cooper,M
+Missouri,Crawford,M
+Missouri,Dade,L
+Missouri,Dallas,L
+Missouri,Daviess,M
+Missouri,DeKalb,M
+Missouri,Dent,M
+Missouri,Douglas,L
+Missouri,Dunklin,L
+Missouri,Franklin,M
+Missouri,Gasconade,M
+Missouri,Gentry,M
+Missouri,Greene,M
+Missouri,Grundy,L
+Missouri,Harrison,L
+Missouri,Henry,M
+Missouri,Hickory,L
+Missouri,Holt,M
+Missouri,Howard,M
+Missouri,Howell,L
+Missouri,Iron,L
+Missouri,Jackson,M
+Missouri,Jasper,M
+Missouri,Jefferson,H
+Missouri,Johnson,M
+Missouri,Knox,L
+Missouri,Laclede,L
+Missouri,Lafayette,H
+Missouri,Lawrence,M
+Missouri,Lewis,L
+Missouri,Lincoln,H
+Missouri,Linn,M
+Missouri,Livingston,M
+Missouri,McDonald,L
+Missouri,Macon,M
+Missouri,Madison,M
+Missouri,Maries,M
+Missouri,Marion,M
+Missouri,Mercer,M
+Missouri,Miller,M
+Missouri,Mississippi,L
+Missouri,Moniteau,M
+Missouri,Monroe,L
+Missouri,Montgomery,M
+Missouri,Morgan,L
+Missouri,New Madrid,L
+Missouri,Newton,M
+Missouri,Nodaway,M
+Missouri,Oregon,L
+Missouri,Osage,H
+Missouri,Ozark,L
+Missouri,Pemiscot,L
+Missouri,Perry,M
+Missouri,Pettis,M
+Missouri,Phelps,M
+Missouri,Pike,M
+Missouri,Platte,H
+Missouri,Polk,M
+Missouri,Pulaski,M
+Missouri,Putnam,M
+Missouri,Ralls,M
+Missouri,Randolph,M
+Missouri,Ray,M
+Missouri,Reynolds,L
+Missouri,Ripley,L
+Missouri,St. Charles,H
+Missouri,St. Clair,L
+Missouri,Ste. Genevieve,M
+Missouri,St. Francois,M
+Missouri,St. Louis,H
+Missouri,Saline,M
+Missouri,Schuyler,M
+Missouri,Scotland,M
+Missouri,Scott,M
+Missouri,Shannon,M
+Missouri,Shelby,L
+Missouri,Stoddard,L
+Missouri,Stone,M
+Missouri,Sullivan,M
+Missouri,Taney,M
+Missouri,Texas,L
+Missouri,Vernon,M
+Missouri,Warren,H
+Missouri,Washington,L
+Missouri,Wayne,L
+Missouri,Webster,M
+Missouri,Worth,L
+Missouri,Wright,L
+Missouri,St. Louis city,M
+Montana,Beaverhead,M
+Montana,Big Horn,M
+Montana,Blaine,M
+Montana,Broadwater,M
+Montana,Carbon,M
+Montana,Carter,L
+Montana,Cascade,M
+Montana,Chouteau,M
+Montana,Custer,M
+Montana,Daniels,M
+Montana,Dawson,M
+Montana,Deer Lodge,L
+Montana,Fallon,M
+Montana,Fergus,M
+Montana,Flathead,M
+Montana,Gallatin,H
+Montana,Garfield,M
+Montana,Glacier,L
+Montana,Golden Valley,M
+Montana,Granite,M
+Montana,Hill,M
+Montana,Jefferson,H
+Montana,Judith Basin,M
+Montana,Lake,M
+Montana,Lewis and Clark,H
+Montana,Liberty,L
+Montana,Lincoln,L
+Montana,McCone,M
+Montana,Madison,M
+Montana,Meagher,M
+Montana,Mineral,M
+Montana,Missoula,M
+Montana,Musselshell,M
+Montana,Park,M
+Montana,Petroleum,M
+Montana,Phillips,M
+Montana,Pondera,L
+Montana,Powder River,M
+Montana,Powell,M
+Montana,Prairie,L
+Montana,Ravalli,M
+Montana,Richland,M
+Montana,Roosevelt,L
+Montana,Rosebud,M
+Montana,Sanders,L
+Montana,Sheridan,M
+Montana,Silver Bow,M
+Montana,Stillwater,H
+Montana,Sweet Grass,M
+Montana,Teton,M
+Montana,Toole,L
+Montana,Treasure,M
+Montana,Valley,M
+Montana,Wheatland,L
+Montana,Wibaux,M
+Montana,Yellowstone,H
+Nebraska,Adams,M
+Nebraska,Antelope,M
+Nebraska,Arthur,M
+Nebraska,Banner,M
+Nebraska,Blaine,M
+Nebraska,Boone,M
+Nebraska,Box Butte,M
+Nebraska,Boyd,M
+Nebraska,Brown,L
+Nebraska,Buffalo,H
+Nebraska,Burt,M
+Nebraska,Butler,H
+Nebraska,Cass,H
+Nebraska,Cedar,H
+Nebraska,Chase,M
+Nebraska,Cherry,M
+Nebraska,Cheyenne,M
+Nebraska,Clay,H
+Nebraska,Colfax,H
+Nebraska,Cuming,M
+Nebraska,Custer,M
+Nebraska,Dakota,M
+Nebraska,Dawes,M
+Nebraska,Dawson,M
+Nebraska,Deuel,M
+Nebraska,Dixon,M
+Nebraska,Dodge,M
+Nebraska,Douglas,H
+Nebraska,Dundy,M
+Nebraska,Fillmore,H
+Nebraska,Franklin,M
+Nebraska,Frontier,M
+Nebraska,Furnas,M
+Nebraska,Gage,M
+Nebraska,Garden,L
+Nebraska,Garfield,M
+Nebraska,Gosper,H
+Nebraska,Grant,M
+Nebraska,Greeley,M
+Nebraska,Hall,M
+Nebraska,Hamilton,H
+Nebraska,Harlan,M
+Nebraska,Hayes,M
+Nebraska,Hitchcock,L
+Nebraska,Holt,M
+Nebraska,Hooker,L
+Nebraska,Howard,H
+Nebraska,Jefferson,M
+Nebraska,Johnson,M
+Nebraska,Kearney,H
+Nebraska,Keith,M
+Nebraska,Keya Paha,M
+Nebraska,Kimball,M
+Nebraska,Knox,M
+Nebraska,Lancaster,M
+Nebraska,Lincoln,M
+Nebraska,Logan,M
+Nebraska,Loup,M
+Nebraska,McPherson,M
+Nebraska,Madison,M
+Nebraska,Merrick,M
+Nebraska,Morrill,M
+Nebraska,Nance,M
+Nebraska,Nemaha,M
+Nebraska,Nuckolls,M
+Nebraska,Otoe,H
+Nebraska,Pawnee,M
+Nebraska,Perkins,M
+Nebraska,Phelps,M
+Nebraska,Pierce,H
+Nebraska,Platte,M
+Nebraska,Polk,M
+Nebraska,Red Willow,M
+Nebraska,Richardson,M
+Nebraska,Rock,M
+Nebraska,Saline,H
+Nebraska,Sarpy,H
+Nebraska,Saunders,H
+Nebraska,Scotts Bluff,M
+Nebraska,Seward,H
+Nebraska,Sheridan,M
+Nebraska,Sherman,M
+Nebraska,Sioux,L
+Nebraska,Stanton,H
+Nebraska,Thayer,M
+Nebraska,Thomas,M
+Nebraska,Thurston,M
+Nebraska,Valley,M
+Nebraska,Washington,H
+Nebraska,Wayne,M
+Nebraska,Webster,M
+Nebraska,Wheeler,M
+Nebraska,York,H
+Nevada,Churchill,H
+Nevada,Clark,H
+Nevada,Douglas,H
+Nevada,Elko,H
+Nevada,Esmeralda,
+Nevada,Eureka,M
+Nevada,Humboldt,H
+Nevada,Lander,H
+Nevada,Lincoln,M
+Nevada,Lyon,H
+Nevada,Mineral,L
+Nevada,Nye,M
+Nevada,Pershing,M
+Nevada,Storey,H
+Nevada,Washoe,H
+Nevada,White Pine,M
+Nevada,Carson City,M
+New Hampshire,Belknap,H
+New Hampshire,Carroll,H
+New Hampshire,Cheshire,H
+New Hampshire,Coos,M
+New Hampshire,Grafton,H
+New Hampshire,Hillsborough,H
+New Hampshire,Merrimack,H
+New Hampshire,Rockingham,H
+New Hampshire,Strafford,H
+New Hampshire,Sullivan,H
+New Jersey,Atlantic,H
+New Jersey,Bergen,H
+New Jersey,Burlington,H
+New Jersey,Camden,H
+New Jersey,Cape May,H
+New Jersey,Cumberland,M
+New Jersey,Essex,H
+New Jersey,Gloucester,H
+New Jersey,Hudson,H
+New Jersey,Hunterdon,H
+New Jersey,Mercer,H
+New Jersey,Middlesex,H
+New Jersey,Monmouth,H
+New Jersey,Morris,H
+New Jersey,Ocean,H
+New Jersey,Passaic,H
+New Jersey,Salem,H
+New Jersey,Somerset,H
+New Jersey,Sussex,H
+New Jersey,Union,H
+New Jersey,Warren,H
+New Mexico,Bernalillo,M
+New Mexico,Catron,L
+New Mexico,Chaves,L
+New Mexico,Cibola,L
+New Mexico,Colfax,L
+New Mexico,Curry,M
+New Mexico,De Baca,L
+New Mexico,Doña Ana,M
+New Mexico,Eddy,H
+New Mexico,Grant,L
+New Mexico,Guadalupe,L
+New Mexico,Harding,L
+New Mexico,Hidalgo,L
+New Mexico,Lea,M
+New Mexico,Lincoln,L
+New Mexico,Los Alamos,H
+New Mexico,Luna,L
+New Mexico,McKinley,L
+New Mexico,Mora,L
+New Mexico,Otero,L
+New Mexico,Quay,L
+New Mexico,Rio Arriba,L
+New Mexico,Roosevelt,L
+New Mexico,Sandoval,H
+New Mexico,San Juan,L
+New Mexico,San Miguel,L
+New Mexico,Santa Fe,H
+New Mexico,Sierra,L
+New Mexico,Socorro,L
+New Mexico,Taos,M
+New Mexico,Torrance,L
+New Mexico,Union,L
+New Mexico,Valencia,M
+New York,Albany,H
+New York,Allegany,M
+New York,Bronx,L
+New York,Broome,M
+New York,Cattaraugus,M
+New York,Cayuga,M
+New York,Chautauqua,M
+New York,Chemung,M
+New York,Chenango,M
+New York,Clinton,M
+New York,Columbia,H
+New York,Cortland,M
+New York,Delaware,M
+New York,Dutchess,H
+New York,Erie,M
+New York,Essex,M
+New York,Franklin,M
+New York,Fulton,M
+New York,Genesee,M
+New York,Greene,H
+New York,Hamilton,M
+New York,Herkimer,M
+New York,Jefferson,M
+New York,Kings,H
+New York,Lewis,M
+New York,Livingston,M
+New York,Madison,M
+New York,Monroe,H
+New York,Montgomery,M
+New York,Nassau,H
+New York,New York,H
+New York,Niagara,M
+New York,Oneida,M
+New York,Onondaga,H
+New York,Ontario,H
+New York,Orange,H
+New York,Orleans,M
+New York,Oswego,M
+New York,Otsego,M
+New York,Putnam,H
+New York,Queens,H
+New York,Rensselaer,H
+New York,Richmond,H
+New York,Rockland,H
+New York,St. Lawrence,M
+New York,Saratoga,H
+New York,Schenectady,H
+New York,Schoharie,M
+New York,Schuyler,M
+New York,Seneca,M
+New York,Steuben,M
+New York,Suffolk,H
+New York,Sullivan,M
+New York,Tioga,M
+New York,Tompkins,M
+New York,Ulster,H
+New York,Warren,H
+New York,Washington,M
+New York,Wayne,H
+New York,Westchester,H
+New York,Wyoming,M
+New York,Yates,M
+North Carolina,Alamance,M
+North Carolina,Alexander,M
+North Carolina,Alleghany,L
+North Carolina,Anson,L
+North Carolina,Ashe,L
+North Carolina,Avery,M
+North Carolina,Beaufort,M
+North Carolina,Bertie,L
+North Carolina,Bladen,L
+North Carolina,Brunswick,H
+North Carolina,Buncombe,M
+North Carolina,Burke,M
+North Carolina,Cabarrus,H
+North Carolina,Caldwell,M
+North Carolina,Camden,H
+North Carolina,Carteret,M
+North Carolina,Caswell,M
+North Carolina,Catawba,M
+North Carolina,Chatham,H
+North Carolina,Cherokee,L
+North Carolina,Chowan,M
+North Carolina,Clay,L
+North Carolina,Cleveland,M
+North Carolina,Columbus,L
+North Carolina,Craven,M
+North Carolina,Cumberland,M
+North Carolina,Currituck,H
+North Carolina,Dare,H
+North Carolina,Davidson,M
+North Carolina,Davie,H
+North Carolina,Duplin,L
+North Carolina,Durham,H
+North Carolina,Edgecombe,L
+North Carolina,Forsyth,M
+North Carolina,Franklin,M
+North Carolina,Gaston,M
+North Carolina,Gates,M
+North Carolina,Graham,L
+North Carolina,Granville,M
+North Carolina,Greene,L
+North Carolina,Guilford,M
+North Carolina,Halifax,L
+North Carolina,Harnett,M
+North Carolina,Haywood,M
+North Carolina,Henderson,M
+North Carolina,Hertford,L
+North Carolina,Hoke,M
+North Carolina,Hyde,L
+North Carolina,Iredell,H
+North Carolina,Jackson,L
+North Carolina,Johnston,H
+North Carolina,Jones,M
+North Carolina,Lee,M
+North Carolina,Lenoir,L
+North Carolina,Lincoln,H
+North Carolina,McDowell,M
+North Carolina,Macon,L
+North Carolina,Madison,M
+North Carolina,Martin,L
+North Carolina,Mecklenburg,H
+North Carolina,Mitchell,M
+North Carolina,Montgomery,M
+North Carolina,Moore,H
+North Carolina,Nash,M
+North Carolina,New Hanover,M
+North Carolina,Northampton,L
+North Carolina,Onslow,M
+North Carolina,Orange,H
+North Carolina,Pamlico,M
+North Carolina,Pasquotank,M
+North Carolina,Pender,H
+North Carolina,Perquimans,M
+North Carolina,Person,M
+North Carolina,Pitt,M
+North Carolina,Polk,M
+North Carolina,Randolph,M
+North Carolina,Richmond,L
+North Carolina,Robeson,L
+North Carolina,Rockingham,M
+North Carolina,Rowan,M
+North Carolina,Rutherford,L
+North Carolina,Sampson,L
+North Carolina,Scotland,L
+North Carolina,Stanly,M
+North Carolina,Stokes,M
+North Carolina,Surry,M
+North Carolina,Swain,M
+North Carolina,Transylvania,M
+North Carolina,Tyrrell,L
+North Carolina,Union,H
+North Carolina,Vance,L
+North Carolina,Wake,H
+North Carolina,Warren,L
+North Carolina,Washington,L
+North Carolina,Watauga,L
+North Carolina,Wayne,M
+North Carolina,Wilkes,L
+North Carolina,Wilson,L
+North Carolina,Yadkin,M
+North Carolina,Yancey,M
+North Dakota,Adams,M
+North Dakota,Barnes,M
+North Dakota,Benson,M
+North Dakota,Billings,H
+North Dakota,Bottineau,H
+North Dakota,Bowman,H
+North Dakota,Burke,H
+North Dakota,Burleigh,H
+North Dakota,Cass,H
+North Dakota,Cavalier,M
+North Dakota,Dickey,M
+North Dakota,Divide,H
+North Dakota,Dunn,H
+North Dakota,Eddy,M
+North Dakota,Emmons,M
+North Dakota,Foster,H
+North Dakota,Golden Valley,H
+North Dakota,Grand Forks,M
+North Dakota,Grant,M
+North Dakota,Griggs,M
+North Dakota,Hettinger,M
+North Dakota,Kidder,M
+North Dakota,LaMoure,M
+North Dakota,Logan,M
+North Dakota,McHenry,H
+North Dakota,McIntosh,M
+North Dakota,McKenzie,H
+North Dakota,McLean,H
+North Dakota,Mercer,H
+North Dakota,Morton,H
+North Dakota,Mountrail,H
+North Dakota,Nelson,M
+North Dakota,Oliver,H
+North Dakota,Pembina,M
+North Dakota,Pierce,M
+North Dakota,Ramsey,M
+North Dakota,Ransom,H
+North Dakota,Renville,H
+North Dakota,Richland,M
+North Dakota,Rolette,M
+North Dakota,Sargent,H
+North Dakota,Sheridan,M
+North Dakota,Sioux,L
+North Dakota,Slope,M
+North Dakota,Stark,H
+North Dakota,Steele,H
+North Dakota,Stutsman,M
+North Dakota,Towner,M
+North Dakota,Traill,H
+North Dakota,Walsh,M
+North Dakota,Ward,H
+North Dakota,Wells,M
+North Dakota,Williams,H
+Ohio,Adams,L
+Ohio,Allen,M
+Ohio,Ashland,M
+Ohio,Ashtabula,M
+Ohio,Athens,L
+Ohio,Auglaize,H
+Ohio,Belmont,M
+Ohio,Brown,M
+Ohio,Butler,H
+Ohio,Carroll,M
+Ohio,Champaign,H
+Ohio,Clark,M
+Ohio,Clermont,H
+Ohio,Clinton,M
+Ohio,Columbiana,M
+Ohio,Coshocton,M
+Ohio,Crawford,M
+Ohio,Cuyahoga,M
+Ohio,Darke,M
+Ohio,Defiance,H
+Ohio,Delaware,H
+Ohio,Erie,M
+Ohio,Fairfield,H
+Ohio,Fayette,M
+Ohio,Franklin,H
+Ohio,Fulton,M
+Ohio,Gallia,M
+Ohio,Geauga,H
+Ohio,Greene,H
+Ohio,Guernsey,M
+Ohio,Hamilton,M
+Ohio,Hancock,M
+Ohio,Hardin,M
+Ohio,Harrison,L
+Ohio,Henry,H
+Ohio,Highland,M
+Ohio,Hocking,M
+Ohio,Holmes,H
+Ohio,Huron,M
+Ohio,Jackson,M
+Ohio,Jefferson,M
+Ohio,Knox,H
+Ohio,Lake,H
+Ohio,Lawrence,M
+Ohio,Licking,H
+Ohio,Logan,M
+Ohio,Lorain,M
+Ohio,Lucas,M
+Ohio,Madison,H
+Ohio,Mahoning,M
+Ohio,Marion,M
+Ohio,Medina,H
+Ohio,Meigs,L
+Ohio,Mercer,H
+Ohio,Miami,H
+Ohio,Monroe,M
+Ohio,Montgomery,M
+Ohio,Morgan,M
+Ohio,Morrow,M
+Ohio,Muskingum,M
+Ohio,Noble,M
+Ohio,Ottawa,H
+Ohio,Paulding,M
+Ohio,Perry,M
+Ohio,Pickaway,M
+Ohio,Pike,L
+Ohio,Portage,M
+Ohio,Preble,M
+Ohio,Putnam,H
+Ohio,Richland,M
+Ohio,Ross,M
+Ohio,Sandusky,M
+Ohio,Scioto,L
+Ohio,Seneca,M
+Ohio,Shelby,M
+Ohio,Stark,M
+Ohio,Summit,M
+Ohio,Trumbull,M
+Ohio,Tuscarawas,M
+Ohio,Union,H
+Ohio,Van Wert,M
+Ohio,Vinton,L
+Ohio,Warren,H
+Ohio,Washington,M
+Ohio,Wayne,M
+Ohio,Williams,M
+Ohio,Wood,M
+Ohio,Wyandot,M
+Oklahoma,Adair,L
+Oklahoma,Alfalfa,M
+Oklahoma,Atoka,L
+Oklahoma,Beaver,M
+Oklahoma,Beckham,L
+Oklahoma,Blaine,M
+Oklahoma,Bryan,M
+Oklahoma,Caddo,L
+Oklahoma,Canadian,H
+Oklahoma,Carter,M
+Oklahoma,Cherokee,L
+Oklahoma,Choctaw,L
+Oklahoma,Cimarron,M
+Oklahoma,Cleveland,H
+Oklahoma,Coal,L
+Oklahoma,Comanche,M
+Oklahoma,Cotton,M
+Oklahoma,Craig,L
+Oklahoma,Creek,M
+Oklahoma,Custer,M
+Oklahoma,Delaware,M
+Oklahoma,Dewey,M
+Oklahoma,Ellis,M
+Oklahoma,Garfield,M
+Oklahoma,Garvin,M
+Oklahoma,Grady,H
+Oklahoma,Grant,M
+Oklahoma,Greer,M
+Oklahoma,Harmon,M
+Oklahoma,Harper,M
+Oklahoma,Haskell,L
+Oklahoma,Hughes,L
+Oklahoma,Jackson,M
+Oklahoma,Jefferson,L
+Oklahoma,Johnston,L
+Oklahoma,Kay,M
+Oklahoma,Kingfisher,M
+Oklahoma,Kiowa,L
+Oklahoma,Latimer,L
+Oklahoma,Le Flore,L
+Oklahoma,Lincoln,M
+Oklahoma,Logan,H
+Oklahoma,Love,M
+Oklahoma,McClain,H
+Oklahoma,McCurtain,L
+Oklahoma,McIntosh,L
+Oklahoma,Major,M
+Oklahoma,Marshall,M
+Oklahoma,Mayes,M
+Oklahoma,Murray,M
+Oklahoma,Muskogee,L
+Oklahoma,Noble,M
+Oklahoma,Nowata,L
+Oklahoma,Okfuskee,L
+Oklahoma,Oklahoma,M
+Oklahoma,Okmulgee,L
+Oklahoma,Osage,M
+Oklahoma,Ottawa,L
+Oklahoma,Pawnee,M
+Oklahoma,Payne,L
+Oklahoma,Pittsburg,M
+Oklahoma,Pontotoc,M
+Oklahoma,Pottawatomie,M
+Oklahoma,Pushmataha,L
+Oklahoma,Roger Mills,M
+Oklahoma,Rogers,H
+Oklahoma,Seminole,L
+Oklahoma,Sequoyah,L
+Oklahoma,Stephens,M
+Oklahoma,Texas,M
+Oklahoma,Tillman,L
+Oklahoma,Tulsa,M
+Oklahoma,Wagoner,H
+Oklahoma,Washington,M
+Oklahoma,Washita,M
+Oklahoma,Woods,L
+Oklahoma,Woodward,M
+Oregon,Baker,M
+Oregon,Benton,H
+Oregon,Clackamas,H
+Oregon,Clatsop,M
+Oregon,Columbia,H
+Oregon,Coos,M
+Oregon,Crook,H
+Oregon,Curry,M
+Oregon,Deschutes,H
+Oregon,Douglas,M
+Oregon,Gilliam,M
+Oregon,Grant,M
+Oregon,Harney,L
+Oregon,Hood River,H
+Oregon,Jackson,M
+Oregon,Jefferson,M
+Oregon,Josephine,M
+Oregon,Klamath,M
+Oregon,Lake,M
+Oregon,Lane,M
+Oregon,Lincoln,M
+Oregon,Linn,H
+Oregon,Malheur,L
+Oregon,Marion,H
+Oregon,Morrow,M
+Oregon,Multnomah,H
+Oregon,Polk,H
+Oregon,Sherman,M
+Oregon,Tillamook,M
+Oregon,Umatilla,M
+Oregon,Union,M
+Oregon,Wallowa,M
+Oregon,Wasco,M
+Oregon,Washington,H
+Oregon,Wheeler,L
+Oregon,Yamhill,H
+Pennsylvania,Adams,H
+Pennsylvania,Allegheny,H
+Pennsylvania,Armstrong,M
+Pennsylvania,Beaver,M
+Pennsylvania,Bedford,M
+Pennsylvania,Berks,H
+Pennsylvania,Blair,M
+Pennsylvania,Bradford,M
+Pennsylvania,Bucks,H
+Pennsylvania,Butler,H
+Pennsylvania,Cambria,M
+Pennsylvania,Cameron,L
+Pennsylvania,Carbon,M
+Pennsylvania,Centre,M
+Pennsylvania,Chester,H
+Pennsylvania,Clarion,M
+Pennsylvania,Clearfield,M
+Pennsylvania,Clinton,M
+Pennsylvania,Columbia,M
+Pennsylvania,Crawford,M
+Pennsylvania,Cumberland,H
+Pennsylvania,Dauphin,H
+Pennsylvania,Delaware,H
+Pennsylvania,Elk,M
+Pennsylvania,Erie,M
+Pennsylvania,Fayette,M
+Pennsylvania,Forest,L
+Pennsylvania,Franklin,H
+Pennsylvania,Fulton,M
+Pennsylvania,Greene,M
+Pennsylvania,Huntingdon,M
+Pennsylvania,Indiana,M
+Pennsylvania,Jefferson,M
+Pennsylvania,Juniata,M
+Pennsylvania,Lackawanna,M
+Pennsylvania,Lancaster,H
+Pennsylvania,Lawrence,M
+Pennsylvania,Lebanon,H
+Pennsylvania,Lehigh,H
+Pennsylvania,Luzerne,M
+Pennsylvania,Lycoming,M
+Pennsylvania,McKean,M
+Pennsylvania,Mercer,M
+Pennsylvania,Mifflin,M
+Pennsylvania,Monroe,H
+Pennsylvania,Montgomery,H
+Pennsylvania,Montour,M
+Pennsylvania,Northampton,H
+Pennsylvania,Northumberland,M
+Pennsylvania,Perry,H
+Pennsylvania,Philadelphia,M
+Pennsylvania,Pike,H
+Pennsylvania,Potter,M
+Pennsylvania,Schuylkill,M
+Pennsylvania,Snyder,M
+Pennsylvania,Somerset,M
+Pennsylvania,Sullivan,M
+Pennsylvania,Susquehanna,M
+Pennsylvania,Tioga,M
+Pennsylvania,Union,M
+Pennsylvania,Venango,M
+Pennsylvania,Warren,M
+Pennsylvania,Washington,H
+Pennsylvania,Wayne,M
+Pennsylvania,Westmoreland,M
+Pennsylvania,Wyoming,M
+Pennsylvania,York,H
+Rhode Island,Bristol,H
+Rhode Island,Kent,H
+Rhode Island,Newport,H
+Rhode Island,Providence,H
+Rhode Island,Washington,H
+South Carolina,Abbeville,L
+South Carolina,Aiken,M
+South Carolina,Allendale,L
+South Carolina,Anderson,M
+South Carolina,Bamberg,L
+South Carolina,Barnwell,L
+South Carolina,Beaufort,H
+South Carolina,Berkeley,H
+South Carolina,Calhoun,M
+South Carolina,Charleston,H
+South Carolina,Cherokee,L
+South Carolina,Chester,L
+South Carolina,Chesterfield,L
+South Carolina,Clarendon,L
+South Carolina,Colleton,L
+South Carolina,Darlington,L
+South Carolina,Dillon,L
+South Carolina,Dorchester,H
+South Carolina,Edgefield,M
+South Carolina,Fairfield,L
+South Carolina,Florence,M
+South Carolina,Georgetown,M
+South Carolina,Greenville,H
+South Carolina,Greenwood,L
+South Carolina,Hampton,L
+South Carolina,Horry,M
+South Carolina,Jasper,M
+South Carolina,Kershaw,M
+South Carolina,Lancaster,H
+South Carolina,Laurens,M
+South Carolina,Lee,L
+South Carolina,Lexington,H
+South Carolina,McCormick,M
+South Carolina,Marion,L
+South Carolina,Marlboro,L
+South Carolina,Newberry,M
+South Carolina,Oconee,M
+South Carolina,Orangeburg,L
+South Carolina,Pickens,M
+South Carolina,Richland,M
+South Carolina,Saluda,L
+South Carolina,Spartanburg,M
+South Carolina,Sumter,M
+South Carolina,Union,L
+South Carolina,Williamsburg,L
+South Carolina,York,H
+South Dakota,Aurora,H
+South Dakota,Beadle,M
+South Dakota,Bennett,L
+South Dakota,Bon Homme,M
+South Dakota,Brookings,M
+South Dakota,Brown,M
+South Dakota,Brule,H
+South Dakota,Buffalo,L
+South Dakota,Butte,M
+South Dakota,Campbell,M
+South Dakota,Charles Mix,M
+South Dakota,Clark,M
+South Dakota,Clay,M
+South Dakota,Codington,M
+South Dakota,Corson,L
+South Dakota,Custer,H
+South Dakota,Davison,M
+South Dakota,Day,M
+South Dakota,Deuel,H
+South Dakota,Dewey,M
+South Dakota,Douglas,H
+South Dakota,Edmunds,H
+South Dakota,Fall River,M
+South Dakota,Faulk,M
+South Dakota,Grant,H
+South Dakota,Gregory,L
+South Dakota,Haakon,M
+South Dakota,Hamlin,H
+South Dakota,Hand,M
+South Dakota,Hanson,H
+South Dakota,Harding,H
+South Dakota,Hughes,H
+South Dakota,Hutchinson,H
+South Dakota,Hyde,H
+South Dakota,Jackson,L
+South Dakota,Jerauld,H
+South Dakota,Jones,M
+South Dakota,Kingsbury,M
+South Dakota,Lake,H
+South Dakota,Lawrence,M
+South Dakota,Lincoln,H
+South Dakota,Lyman,M
+South Dakota,McCook,H
+South Dakota,McPherson,M
+South Dakota,Marshall,M
+South Dakota,Meade,H
+South Dakota,Mellette,L
+South Dakota,Miner,M
+South Dakota,Minnehaha,H
+South Dakota,Moody,H
+South Dakota,Oglala Lakota,L
+South Dakota,Pennington,M
+South Dakota,Perkins,M
+South Dakota,Potter,M
+South Dakota,Roberts,M
+South Dakota,Sanborn,M
+South Dakota,Spink,M
+South Dakota,Stanley,H
+South Dakota,Sully,M
+South Dakota,Todd,L
+South Dakota,Tripp,M
+South Dakota,Turner,H
+South Dakota,Union,H
+South Dakota,Walworth,M
+South Dakota,Yankton,H
+South Dakota,Ziebach,L
+Tennessee,Anderson,M
+Tennessee,Bedford,M
+Tennessee,Benton,L
+Tennessee,Bledsoe,L
+Tennessee,Blount,H
+Tennessee,Bradley,M
+Tennessee,Campbell,L
+Tennessee,Cannon,M
+Tennessee,Carroll,L
+Tennessee,Carter,L
+Tennessee,Cheatham,H
+Tennessee,Chester,M
+Tennessee,Claiborne,L
+Tennessee,Clay,L
+Tennessee,Cocke,L
+Tennessee,Coffee,M
+Tennessee,Crockett,M
+Tennessee,Cumberland,M
+Tennessee,Davidson,H
+Tennessee,Decatur,L
+Tennessee,DeKalb,L
+Tennessee,Dickson,H
+Tennessee,Dyer,M
+Tennessee,Fayette,H
+Tennessee,Fentress,L
+Tennessee,Franklin,M
+Tennessee,Gibson,M
+Tennessee,Giles,M
+Tennessee,Grainger,L
+Tennessee,Greene,L
+Tennessee,Grundy,L
+Tennessee,Hamblen,L
+Tennessee,Hamilton,M
+Tennessee,Hancock,L
+Tennessee,Hardeman,L
+Tennessee,Hardin,L
+Tennessee,Hawkins,M
+Tennessee,Haywood,L
+Tennessee,Henderson,L
+Tennessee,Henry,L
+Tennessee,Hickman,M
+Tennessee,Houston,M
+Tennessee,Humphreys,M
+Tennessee,Jackson,L
+Tennessee,Jefferson,M
+Tennessee,Johnson,L
+Tennessee,Knox,M
+Tennessee,Lake,L
+Tennessee,Lauderdale,L
+Tennessee,Lawrence,L
+Tennessee,Lewis,L
+Tennessee,Lincoln,M
+Tennessee,Loudon,H
+Tennessee,McMinn,M
+Tennessee,McNairy,L
+Tennessee,Macon,M
+Tennessee,Madison,M
+Tennessee,Marion,M
+Tennessee,Marshall,M
+Tennessee,Maury,H
+Tennessee,Meigs,M
+Tennessee,Monroe,M
+Tennessee,Montgomery,M
+Tennessee,Moore,M
+Tennessee,Morgan,M
+Tennessee,Obion,L
+Tennessee,Overton,L
+Tennessee,Perry,L
+Tennessee,Pickett,L
+Tennessee,Polk,M
+Tennessee,Putnam,M
+Tennessee,Rhea,M
+Tennessee,Roane,M
+Tennessee,Robertson,H
+Tennessee,Rutherford,H
+Tennessee,Scott,L
+Tennessee,Sequatchie,L
+Tennessee,Sevier,M
+Tennessee,Shelby,M
+Tennessee,Smith,M
+Tennessee,Stewart,M
+Tennessee,Sullivan,M
+Tennessee,Sumner,H
+Tennessee,Tipton,M
+Tennessee,Trousdale,M
+Tennessee,Unicoi,L
+Tennessee,Union,M
+Tennessee,Van Buren,M
+Tennessee,Warren,L
+Tennessee,Washington,M
+Tennessee,Wayne,L
+Tennessee,Weakley,L
+Tennessee,White,L
+Tennessee,Williamson,H
+Tennessee,Wilson,H
+Texas,Anderson,M
+Texas,Andrews,H
+Texas,Angelina,M
+Texas,Aransas,M
+Texas,Archer,M
+Texas,Armstrong,M
+Texas,Atascosa,M
+Texas,Austin,H
+Texas,Bailey,M
+Texas,Bandera,M
+Texas,Bastrop,H
+Texas,Baylor,L
+Texas,Bee,M
+Texas,Bell,M
+Texas,Bexar,M
+Texas,Blanco,H
+Texas,Borden,M
+Texas,Bosque,M
+Texas,Bowie,M
+Texas,Brazoria,H
+Texas,Brazos,M
+Texas,Brewster,L
+Texas,Briscoe,L
+Texas,Brooks,L
+Texas,Brown,M
+Texas,Burleson,M
+Texas,Burnet,H
+Texas,Caldwell,M
+Texas,Calhoun,M
+Texas,Callahan,M
+Texas,Cameron,L
+Texas,Camp,M
+Texas,Carson,H
+Texas,Cass,M
+Texas,Castro,M
+Texas,Chambers,H
+Texas,Cherokee,M
+Texas,Childress,M
+Texas,Clay,H
+Texas,Cochran,L
+Texas,Coke,L
+Texas,Coleman,L
+Texas,Collin,H
+Texas,Collingsworth,M
+Texas,Colorado,M
+Texas,Comal,H
+Texas,Comanche,M
+Texas,Concho,M
+Texas,Cooke,M
+Texas,Coryell,M
+Texas,Cottle,M
+Texas,Crane,M
+Texas,Crockett,H
+Texas,Crosby,L
+Texas,Culberson,L
+Texas,Dallam,M
+Texas,Dallas,H
+Texas,Dawson,M
+Texas,Deaf Smith,M
+Texas,Delta,M
+Texas,Denton,H
+Texas,DeWitt,M
+Texas,Dickens,L
+Texas,Dimmit,L
+Texas,Donley,M
+Texas,Duval,L
+Texas,Eastland,L
+Texas,Ector,M
+Texas,Edwards,L
+Texas,Ellis,H
+Texas,El Paso,M
+Texas,Erath,M
+Texas,Falls,M
+Texas,Fannin,M
+Texas,Fayette,H
+Texas,Fisher,M
+Texas,Floyd,M
+Texas,Foard,L
+Texas,Fort Bend,H
+Texas,Franklin,M
+Texas,Freestone,M
+Texas,Frio,M
+Texas,Gaines,H
+Texas,Galveston,H
+Texas,Garza,L
+Texas,Gillespie,M
+Texas,Glasscock,H
+Texas,Goliad,M
+Texas,Gonzales,M
+Texas,Gray,M
+Texas,Grayson,M
+Texas,Gregg,M
+Texas,Grimes,M
+Texas,Guadalupe,H
+Texas,Hale,L
+Texas,Hall,L
+Texas,Hamilton,M
+Texas,Hansford,M
+Texas,Hardeman,M
+Texas,Hardin,M
+Texas,Harris,M
+Texas,Harrison,M
+Texas,Hartley,H
+Texas,Haskell,L
+Texas,Hays,H
+Texas,Hemphill,M
+Texas,Henderson,M
+Texas,Hidalgo,L
+Texas,Hill,M
+Texas,Hockley,M
+Texas,Hood,H
+Texas,Hopkins,M
+Texas,Houston,M
+Texas,Howard,M
+Texas,Hudspeth,L
+Texas,Hunt,M
+Texas,Hutchinson,M
+Texas,Irion,M
+Texas,Jack,M
+Texas,Jackson,M
+Texas,Jasper,L
+Texas,Jeff Davis,L
+Texas,Jefferson,M
+Texas,Jim Hogg,L
+Texas,Jim Wells,L
+Texas,Johnson,H
+Texas,Jones,M
+Texas,Karnes,M
+Texas,Kaufman,H
+Texas,Kendall,H
+Texas,Kenedy,
+Texas,Kent,M
+Texas,Kerr,M
+Texas,Kimble,M
+Texas,King,M
+Texas,Kinney,M
+Texas,Kleberg,M
+Texas,Knox,M
+Texas,Lamar,M
+Texas,Lamb,M
+Texas,Lampasas,H
+Texas,La Salle,M
+Texas,Lavaca,M
+Texas,Lee,M
+Texas,Leon,M
+Texas,Liberty,M
+Texas,Limestone,M
+Texas,Lipscomb,M
+Texas,Live Oak,L
+Texas,Llano,M
+Texas,Loving,L
+Texas,Lubbock,M
+Texas,Lynn,M
+Texas,McCulloch,L
+Texas,McLennan,M
+Texas,McMullen,L
+Texas,Madison,M
+Texas,Marion,L
+Texas,Martin,H
+Texas,Mason,M
+Texas,Matagorda,M
+Texas,Maverick,L
+Texas,Medina,H
+Texas,Menard,L
+Texas,Midland,H
+Texas,Milam,M
+Texas,Mills,M
+Texas,Mitchell,M
+Texas,Montague,M
+Texas,Montgomery,H
+Texas,Moore,M
+Texas,Morris,M
+Texas,Motley,M
+Texas,Nacogdoches,L
+Texas,Navarro,M
+Texas,Newton,L
+Texas,Nolan,L
+Texas,Nueces,M
+Texas,Ochiltree,M
+Texas,Oldham,H
+Texas,Orange,H
+Texas,Palo Pinto,M
+Texas,Panola,M
+Texas,Parker,H
+Texas,Parmer,M
+Texas,Pecos,M
+Texas,Polk,M
+Texas,Potter,L
+Texas,Presidio,L
+Texas,Rains,M
+Texas,Randall,H
+Texas,Reagan,M
+Texas,Real,L
+Texas,Red River,L
+Texas,Reeves,M
+Texas,Refugio,M
+Texas,Roberts,M
+Texas,Robertson,M
+Texas,Rockwall,H
+Texas,Runnels,M
+Texas,Rusk,M
+Texas,Sabine,M
+Texas,San Augustine,L
+Texas,San Jacinto,M
+Texas,San Patricio,M
+Texas,San Saba,M
+Texas,Schleicher,H
+Texas,Scurry,M
+Texas,Shackelford,M
+Texas,Shelby,L
+Texas,Sherman,H
+Texas,Smith,M
+Texas,Somervell,H
+Texas,Starr,L
+Texas,Stephens,M
+Texas,Sterling,H
+Texas,Stonewall,M
+Texas,Sutton,H
+Texas,Swisher,L
+Texas,Tarrant,H
+Texas,Taylor,M
+Texas,Terrell,L
+Texas,Terry,L
+Texas,Throckmorton,M
+Texas,Titus,M
+Texas,Tom Green,M
+Texas,Travis,H
+Texas,Trinity,L
+Texas,Tyler,L
+Texas,Upshur,M
+Texas,Upton,L
+Texas,Uvalde,M
+Texas,Val Verde,M
+Texas,Van Zandt,M
+Texas,Victoria,M
+Texas,Walker,L
+Texas,Waller,H
+Texas,Ward,M
+Texas,Washington,H
+Texas,Webb,M
+Texas,Wharton,M
+Texas,Wheeler,M
+Texas,Wichita,M
+Texas,Wilbarger,L
+Texas,Willacy,L
+Texas,Williamson,H
+Texas,Wilson,H
+Texas,Winkler,H
+Texas,Wise,H
+Texas,Wood,M
+Texas,Yoakum,H
+Texas,Young,M
+Texas,Zapata,L
+Texas,Zavala,L
+Utah,Beaver,H
+Utah,Box Elder,H
+Utah,Cache,H
+Utah,Carbon,L
+Utah,Daggett,M
+Utah,Davis,H
+Utah,Duchesne,H
+Utah,Emery,M
+Utah,Garfield,M
+Utah,Grand,M
+Utah,Iron,M
+Utah,Juab,H
+Utah,Kane,H
+Utah,Millard,M
+Utah,Morgan,H
+Utah,Piute,L
+Utah,Rich,H
+Utah,Salt Lake,H
+Utah,San Juan,M
+Utah,Sanpete,M
+Utah,Sevier,H
+Utah,Summit,H
+Utah,Tooele,H
+Utah,Uintah,M
+Utah,Utah,H
+Utah,Wasatch,H
+Utah,Washington,H
+Utah,Wayne,M
+Utah,Weber,H
+Vermont,Addison,H
+Vermont,Bennington,M
+Vermont,Caledonia,M
+Vermont,Chittenden,H
+Vermont,Essex,M
+Vermont,Franklin,H
+Vermont,Grand Isle,H
+Vermont,Lamoille,M
+Vermont,Orange,H
+Vermont,Orleans,M
+Vermont,Rutland,M
+Vermont,Washington,H
+Vermont,Windham,M
+Vermont,Windsor,H
+Virginia,Accomack,M
+Virginia,Albemarle,H
+Virginia,Alleghany,M
+Virginia,Amelia,M
+Virginia,Amherst,M
+Virginia,Appomattox,M
+Virginia,Arlington,H
+Virginia,Augusta,H
+Virginia,Bath,M
+Virginia,Bedford,H
+Virginia,Bland,M
+Virginia,Botetourt,H
+Virginia,Brunswick,L
+Virginia,Buchanan,L
+Virginia,Buckingham,M
+Virginia,Campbell,M
+Virginia,Caroline,H
+Virginia,Carroll,L
+Virginia,Charles City,M
+Virginia,Charlotte,L
+Virginia,Chesterfield,H
+Virginia,Clarke,H
+Virginia,Craig,M
+Virginia,Culpeper,H
+Virginia,Cumberland,M
+Virginia,Dickenson,L
+Virginia,Dinwiddie,H
+Virginia,Essex,M
+Virginia,Fairfax,H
+Virginia,Fauquier,H
+Virginia,Floyd,M
+Virginia,Fluvanna,H
+Virginia,Franklin,M
+Virginia,Frederick,H
+Virginia,Giles,M
+Virginia,Gloucester,H
+Virginia,Goochland,H
+Virginia,Grayson,L
+Virginia,Greene,H
+Virginia,Greensville,M
+Virginia,Halifax,L
+Virginia,Hanover,H
+Virginia,Henrico,H
+Virginia,Henry,L
+Virginia,Highland,M
+Virginia,Isle of Wight,H
+Virginia,James City,H
+Virginia,King and Queen,M
+Virginia,King George,H
+Virginia,King William,H
+Virginia,Lancaster,M
+Virginia,Lee,L
+Virginia,Loudoun,H
+Virginia,Louisa,H
+Virginia,Lunenburg,M
+Virginia,Madison,H
+Virginia,Mathews,H
+Virginia,Mecklenburg,L
+Virginia,Middlesex,H
+Virginia,Montgomery,M
+Virginia,Nelson,M
+Virginia,New Kent,H
+Virginia,Northampton,M
+Virginia,Northumberland,M
+Virginia,Nottoway,M
+Virginia,Orange,H
+Virginia,Page,M
+Virginia,Patrick,L
+Virginia,Pittsylvania,M
+Virginia,Powhatan,H
+Virginia,Prince Edward,M
+Virginia,Prince George,H
+Virginia,Prince William,H
+Virginia,Pulaski,M
+Virginia,Rappahannock,H
+Virginia,Richmond,M
+Virginia,Roanoke,H
+Virginia,Rockbridge,M
+Virginia,Rockingham,H
+Virginia,Russell,L
+Virginia,Scott,L
+Virginia,Shenandoah,M
+Virginia,Smyth,L
+Virginia,Southampton,M
+Virginia,Spotsylvania,H
+Virginia,Stafford,H
+Virginia,Surry,M
+Virginia,Sussex,M
+Virginia,Tazewell,L
+Virginia,Warren,H
+Virginia,Washington,M
+Virginia,Westmoreland,M
+Virginia,Wise,L
+Virginia,Wythe,M
+Virginia,York,H
+Virginia,Alexandria city,H
+Virginia,Bristol city,L
+Virginia,Buena Vista city,M
+Virginia,Charlottesville city,M
+Virginia,Chesapeake city,H
+Virginia,Colonial Heights city,H
+Virginia,Covington city,L
+Virginia,Danville city,L
+Virginia,Emporia city,L
+Virginia,Fairfax city,H
+Virginia,Falls Church city,H
+Virginia,Franklin city,M
+Virginia,Fredericksburg city,H
+Virginia,Galax city,L
+Virginia,Hampton city,M
+Virginia,Harrisonburg city,M
+Virginia,Hopewell city,L
+Virginia,Lexington city,H
+Virginia,Lynchburg city,M
+Virginia,Manassas city,H
+Virginia,Manassas Park city,H
+Virginia,Martinsville city,L
+Virginia,Newport News city,M
+Virginia,Norfolk city,M
+Virginia,Norton city,L
+Virginia,Petersburg city,L
+Virginia,Poquoson city,H
+Virginia,Portsmouth city,M
+Virginia,Radford city,L
+Virginia,Richmond city,M
+Virginia,Roanoke city,L
+Virginia,Salem city,M
+Virginia,Staunton city,M
+Virginia,Suffolk city,H
+Virginia,Virginia Beach city,H
+Virginia,Waynesboro city,M
+Virginia,Williamsburg city,M
+Virginia,Winchester city,M
+Washington,Adams,M
+Washington,Asotin,M
+Washington,Benton,H
+Washington,Chelan,H
+Washington,Clallam,M
+Washington,Clark,H
+Washington,Columbia,M
+Washington,Cowlitz,M
+Washington,Douglas,H
+Washington,Ferry,M
+Washington,Franklin,H
+Washington,Garfield,M
+Washington,Grant,M
+Washington,Grays Harbor,M
+Washington,Island,H
+Washington,Jefferson,M
+Washington,King,H
+Washington,Kitsap,H
+Washington,Kittitas,M
+Washington,Klickitat,M
+Washington,Lewis,M
+Washington,Lincoln,M
+Washington,Mason,H
+Washington,Okanogan,M
+Washington,Pacific,M
+Washington,Pend Oreille,M
+Washington,Pierce,H
+Washington,San Juan,H
+Washington,Skagit,H
+Washington,Skamania,H
+Washington,Snohomish,H
+Washington,Spokane,H
+Washington,Stevens,M
+Washington,Thurston,H
+Washington,Wahkiakum,M
+Washington,Walla Walla,M
+Washington,Whatcom,H
+Washington,Whitman,L
+Washington,Yakima,M
+West Virginia,Barbour,L
+West Virginia,Berkeley,H
+West Virginia,Boone,M
+West Virginia,Braxton,L
+West Virginia,Brooke,L
+West Virginia,Cabell,L
+West Virginia,Calhoun,L
+West Virginia,Clay,L
+West Virginia,Doddridge,M
+West Virginia,Fayette,L
+West Virginia,Gilmer,L
+West Virginia,Grant,M
+West Virginia,Greenbrier,L
+West Virginia,Hampshire,M
+West Virginia,Hancock,M
+West Virginia,Hardy,L
+West Virginia,Harrison,M
+West Virginia,Jackson,M
+West Virginia,Jefferson,H
+West Virginia,Kanawha,M
+West Virginia,Lewis,L
+West Virginia,Lincoln,L
+West Virginia,Logan,L
+West Virginia,McDowell,L
+West Virginia,Marion,M
+West Virginia,Marshall,M
+West Virginia,Mason,L
+West Virginia,Mercer,L
+West Virginia,Mineral,M
+West Virginia,Mingo,L
+West Virginia,Monongalia,M
+West Virginia,Monroe,M
+West Virginia,Morgan,M
+West Virginia,Nicholas,L
+West Virginia,Ohio,M
+West Virginia,Pendleton,M
+West Virginia,Pleasants,M
+West Virginia,Pocahontas,L
+West Virginia,Preston,M
+West Virginia,Putnam,H
+West Virginia,Raleigh,L
+West Virginia,Randolph,M
+West Virginia,Ritchie,L
+West Virginia,Roane,L
+West Virginia,Summers,L
+West Virginia,Taylor,M
+West Virginia,Tucker,L
+West Virginia,Tyler,M
+West Virginia,Upshur,L
+West Virginia,Wayne,M
+West Virginia,Webster,L
+West Virginia,Wetzel,L
+West Virginia,Wirt,M
+West Virginia,Wood,M
+West Virginia,Wyoming,L
+Wisconsin,Adams,M
+Wisconsin,Ashland,M
+Wisconsin,Barron,M
+Wisconsin,Bayfield,M
+Wisconsin,Brown,H
+Wisconsin,Buffalo,M
+Wisconsin,Burnett,M
+Wisconsin,Calumet,H
+Wisconsin,Chippewa,H
+Wisconsin,Clark,M
+Wisconsin,Columbia,H
+Wisconsin,Crawford,M
+Wisconsin,Dane,H
+Wisconsin,Dodge,H
+Wisconsin,Door,M
+Wisconsin,Douglas,M
+Wisconsin,Dunn,M
+Wisconsin,Eau Claire,M
+Wisconsin,Florence,M
+Wisconsin,Fond du Lac,M
+Wisconsin,Forest,M
+Wisconsin,Grant,M
+Wisconsin,Green,H
+Wisconsin,Green Lake,M
+Wisconsin,Iowa,H
+Wisconsin,Iron,M
+Wisconsin,Jackson,M
+Wisconsin,Jefferson,H
+Wisconsin,Juneau,M
+Wisconsin,Kenosha,H
+Wisconsin,Kewaunee,H
+Wisconsin,La Crosse,M
+Wisconsin,Lafayette,M
+Wisconsin,Langlade,M
+Wisconsin,Lincoln,M
+Wisconsin,Manitowoc,M
+Wisconsin,Marathon,H
+Wisconsin,Marinette,M
+Wisconsin,Marquette,M
+Wisconsin,Menominee,M
+Wisconsin,Milwaukee,M
+Wisconsin,Monroe,M
+Wisconsin,Oconto,H
+Wisconsin,Oneida,M
+Wisconsin,Outagamie,H
+Wisconsin,Ozaukee,H
+Wisconsin,Pepin,H
+Wisconsin,Pierce,H
+Wisconsin,Polk,H
+Wisconsin,Portage,H
+Wisconsin,Price,M
+Wisconsin,Racine,H
+Wisconsin,Richland,M
+Wisconsin,Rock,H
+Wisconsin,Rusk,M
+Wisconsin,St. Croix,H
+Wisconsin,Sauk,H
+Wisconsin,Sawyer,M
+Wisconsin,Shawano,M
+Wisconsin,Sheboygan,M
+Wisconsin,Taylor,M
+Wisconsin,Trempealeau,M
+Wisconsin,Vernon,M
+Wisconsin,Vilas,M
+Wisconsin,Walworth,H
+Wisconsin,Washburn,M
+Wisconsin,Washington,H
+Wisconsin,Waukesha,H
+Wisconsin,Waupaca,M
+Wisconsin,Waushara,M
+Wisconsin,Winnebago,M
+Wisconsin,Wood,M
+Wyoming,Albany,M
+Wyoming,Big Horn,M
+Wyoming,Campbell,H
+Wyoming,Carbon,M
+Wyoming,Converse,H
+Wyoming,Crook,M
+Wyoming,Fremont,M
+Wyoming,Goshen,M
+Wyoming,Hot Springs,M
+Wyoming,Johnson,M
+Wyoming,Laramie,H
+Wyoming,Lincoln,H
+Wyoming,Natrona,M
+Wyoming,Niobrara,L
+Wyoming,Park,M
+Wyoming,Platte,M
+Wyoming,Sheridan,M
+Wyoming,Sublette,H
+Wyoming,Sweetwater,H
+Wyoming,Teton,H
+Wyoming,Uinta,H
+Wyoming,Washakie,M
+Wyoming,Weston,H
+Puerto Rico,Adjuntas Municipio,L
+Puerto Rico,Aguada Municipio,L
+Puerto Rico,Aguadilla Municipio,L
+Puerto Rico,Aguas Buenas Municipio,L
+Puerto Rico,Aibonito Municipio,L
+Puerto Rico,Añasco Municipio,L
+Puerto Rico,Arecibo Municipio,L
+Puerto Rico,Arroyo Municipio,L
+Puerto Rico,Barceloneta Municipio,L
+Puerto Rico,Barranquitas Municipio,L
+Puerto Rico,Bayamón Municipio,L
+Puerto Rico,Cabo Rojo Municipio,L
+Puerto Rico,Caguas Municipio,L
+Puerto Rico,Camuy Municipio,L
+Puerto Rico,Canóvanas Municipio,L
+Puerto Rico,Carolina Municipio,L
+Puerto Rico,Cataño Municipio,L
+Puerto Rico,Cayey Municipio,L
+Puerto Rico,Ceiba Municipio,L
+Puerto Rico,Ciales Municipio,L
+Puerto Rico,Cidra Municipio,L
+Puerto Rico,Coamo Municipio,L
+Puerto Rico,Comerío Municipio,L
+Puerto Rico,Corozal Municipio,L
+Puerto Rico,Culebra Municipio,L
+Puerto Rico,Dorado Municipio,L
+Puerto Rico,Fajardo Municipio,L
+Puerto Rico,Florida Municipio,L
+Puerto Rico,Guánica Municipio,L
+Puerto Rico,Guayama Municipio,L
+Puerto Rico,Guayanilla Municipio,L
+Puerto Rico,Guaynabo Municipio,L
+Puerto Rico,Gurabo Municipio,L
+Puerto Rico,Hatillo Municipio,L
+Puerto Rico,Hormigueros Municipio,L
+Puerto Rico,Humacao Municipio,L
+Puerto Rico,Isabela Municipio,L
+Puerto Rico,Jayuya Municipio,L
+Puerto Rico,Juana Díaz Municipio,L
+Puerto Rico,Juncos Municipio,L
+Puerto Rico,Lajas Municipio,L
+Puerto Rico,Lares Municipio,L
+Puerto Rico,Las Marías Municipio,L
+Puerto Rico,Las Piedras Municipio,L
+Puerto Rico,Loíza Municipio,L
+Puerto Rico,Luquillo Municipio,L
+Puerto Rico,Manatí Municipio,L
+Puerto Rico,Maricao Municipio,L
+Puerto Rico,Maunabo Municipio,L
+Puerto Rico,Mayagüez Municipio,L
+Puerto Rico,Moca Municipio,L
+Puerto Rico,Morovis Municipio,L
+Puerto Rico,Naguabo Municipio,L
+Puerto Rico,Naranjito Municipio,L
+Puerto Rico,Orocovis Municipio,L
+Puerto Rico,Patillas Municipio,L
+Puerto Rico,Peñuelas Municipio,L
+Puerto Rico,Ponce Municipio,L
+Puerto Rico,Quebradillas Municipio,L
+Puerto Rico,Rincón Municipio,L
+Puerto Rico,Río Grande Municipio,L
+Puerto Rico,Sabana Grande Municipio,L
+Puerto Rico,Salinas Municipio,L
+Puerto Rico,San Germán Municipio,L
+Puerto Rico,San Juan Municipio,L
+Puerto Rico,San Lorenzo Municipio,L
+Puerto Rico,San Sebastián Municipio,L
+Puerto Rico,Santa Isabel Municipio,L
+Puerto Rico,Toa Alta Municipio,L
+Puerto Rico,Toa Baja Municipio,L
+Puerto Rico,Trujillo Alto Municipio,L
+Puerto Rico,Utuado Municipio,L
+Puerto Rico,Vega Alta Municipio,L
+Puerto Rico,Vega Baja Municipio,L
+Puerto Rico,Vieques Municipio,L
+Puerto Rico,Villalba Municipio,L
+Puerto Rico,Yabucoa Municipio,L
+Puerto Rico,Yauco Municipio,L
